@@ -1,0 +1,37 @@
+version: "3.7"
+
+services:
+  hummingbird: &hummingbird
+    build:
+      context: .
+      dockerfile: .docker/hummingbird/Dockerfile
+    volumes:
+      - .:/hummingbird
+      - bundler_gems:/usr/local/bundle
+    depends_on:
+      - db
+    tty: true
+    stdin_open: true
+    ports:
+      - "3000:3000"
+    env_file: .env.development
+    networks:    
+      - internal_network
+      - external_network
+  db:
+    shm_size: "256m"
+    image: postgres:12-alpine
+    env_file: .env.development
+    ports:
+      - "5432:5432"
+    volumes:
+      - db:/var/lib/postgresql/data
+    networks: 
+      - internal_network
+volumes:
+  bundler_gems:
+  db:
+networks:
+  external_network:
+  internal_network:
+    internal: true
