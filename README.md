@@ -2,10 +2,26 @@
 
 A Rails application for managing the Database A-Z list.
 
-
 # Instructions for running the application
 
-## Using docker-compose
+1. Install Docker Dekstop if you are using a Mac or PC.
+2. Run the following commands to install the dependencies and create the initial database.
+
+## Run with the Makefile
+
+To run the server with the Makefile, run the following command:
+
+```
+make up 
+```
+
+To run the specs, run the following command:
+
+```
+make test
+```
+
+## Run using docker-compose directly
 
 ```
 docker-compose up --build
