@@ -1,5 +1,5 @@
 # hummingbird
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jhu-library-applications/hummingbird/CI)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jhu-library-applications/hummingbird/CI) [![codecov](https://codecov.io/gh/jhu-library-applications/hummingbird/branch/main/graph/badge.svg?token=YA5Z4VHIIH)](https://codecov.io/gh/jhu-library-applications/hummingbird)
 
 A Rails application for managing the Database A-Z list.
 
