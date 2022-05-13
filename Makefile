@@ -4,7 +4,8 @@ up:
 	&& docker-compose run --rm hummingbird bundle install -j2	\
 	&& docker-compose run -e RAILS_ENV=development --rm hummingbird rails db:create  \
 	&& docker-compose run -e RAILS_ENV=development --rm hummingbird rails db:migrate \
-	&& docker-compose up -d
+	&& docker-compose up -d \
+	&& docker-compose run --rm hummingbird rails tailwindcss:watch
 
 .PHONY: test
 test:
