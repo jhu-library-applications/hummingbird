@@ -1,0 +1,9 @@
+"ID","restrict_type","restrict_note_default","private"
+2,"Browser Requirement","Works best with current versions of major browsers such as Chrome, Safari, or Firefox.",0
+3,"Campus Restriction",,0
+5,"Concurrent Users","Please log off when you are finished. Only 5 people can use this database at the same time.",0
+7,"Dedicated Terminal","Only available on specific computers in the library. Please contact a librarian for help.",0
+8,"Other",,0
+11,"Register with Staff","First-time users much contact a librarian to get their login credentials.",0
+12,"Register Self Service","First-time users will need to follow the direction to register an ID and password to log in.",0
+13,"Shared ID",,1
