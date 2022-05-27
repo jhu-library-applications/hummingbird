@@ -1,0 +1,34 @@
+<div x-data="{
+        showMobileMenu: false,
+    }"
+     class="bg-jhublue w-full" :class="{ 'h-auto': showMobileMenu === true, 'h-14': showMobileMenu === false }">
+    <nav class="md:flex items-start w-full px-4 md:px-6 lg:px-8 sm-hidden" aria-label="Libraries">
+        <div class="-mr-2 pt-2 md:hidden">
+            <button x-on:click="showMobileMenu = ! showMobileMenu"
+                    type="button" class="rounded-md p-2 inline-flex items-center justify-center text-[rgba(255,255,255,0.5)] hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-[rgba(255,255,255,0.5)]" aria-expanded="false">
+                <span class="sr-only">Open menu</span>
+                <!-- Heroicon name: outline/menu -->
+                <svg class="h-6 w-6 text-[rgba(255,255,255,0.5)]" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+            </button>
+        </div>
+        <div class="grid grid-rows-5 md:grid-rows-1 grid-flow-col md:ml-10 md:space-x-6 gap-y-2 md:space-y-0 py-4">
+        <% if signed_in? %>
+            <span class="text-base font-medium text-white hover:text-indigo-50">
+                <%= link_to current_user.email, edit_user_registration_path %>
+            </span>
+            <span class="text-base font-medium text-white hover:text-indigo-50">
+                <%= button_to "Log out", destroy_user_session_path, method: :delete, data: { turbo: "false" } %>
+            </span>
+        <% else %>
+            <span class="text-base font-medium text-white hover:text-indigo-50">
+                <%= link_to "Log in", new_user_session_path %>
+            </span>
+            <span class="text-base font-medium text-white hover:text-indigo-50">
+                <%= link_to "Register", new_user_registration_path %>
+            </span>
+        <% end %>
+        </div>
+    </nav>
+</div>

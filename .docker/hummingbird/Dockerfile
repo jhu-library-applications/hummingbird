@@ -21,7 +21,8 @@ RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/main" > /etc/apk/repositorie
   freetype \
   ttf-freefont \
   font-noto-emoji \
-  wqy-zenhei
+  wqy-zenhei \
+  bash
 
 ENV CHROME_BIN=/usr/bin/chromium-browser \
     CHROME_PATH=/usr/lib/chromium/
