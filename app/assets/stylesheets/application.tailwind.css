@@ -798,11 +798,6 @@ video {
 	color: rgba(0, 45, 114, var(--tw-text-opacity)) !important;
 }
 
-@font-face {
-    font-family: "Gentona";
-    src: url("/sfxlcl41/css/journalsearch/Gentona-Medium.woff") format("woff2");
-}
-
 a:link, a:visited {
 	font-family: "Gentona", arial, sans-serif;
 }
