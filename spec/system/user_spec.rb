@@ -2,7 +2,7 @@
 
 require 'rails_helper'
 
-RSpec.describe 'User pages', type: :system do # rubocop:disable Metrics/BlockLength
+RSpec.describe 'User pages', type: :system do
   let(:user) { create(:user) }
 
   before do
@@ -24,7 +24,7 @@ RSpec.describe 'User pages', type: :system do # rubocop:disable Metrics/BlockLen
     expect(page).to have_content('Sign up')
   end
 
-  it 'can sign up a new user' do # rubocop:disable RSpec/ExampleLength
+  it 'can sign up a new user' do
     click_on 'Register'
 
     fill_in 'Email', with: 'test@example.com'

@@ -2,6 +2,20 @@ require:
   - rubocop-rspec
   - rubocop-rails
 
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*.rb'
+
+Metrics/LineLength:
+  Exclude:
+    - 'spec/**/*.rb'
+
+RSpec/ExampleLength:
+  Exclude:
+  - 'spec/**/*.rb'
+
 AllCops:
   Exclude:
     - 'db/schema.rb'
+    - 'config/initializers/*'
+    - 'db/migrate/*'
