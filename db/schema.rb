@@ -10,9 +10,23 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_05_27_145759) do
+ActiveRecord::Schema[7.0].define(version: 2022_05_31_192636) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "databases", force: :cascade do |t|
+    t.bigint "vendor_id", null: false
+    t.text "name"
+    t.text "url"
+    t.boolean "enable_proxy"
+    t.text "description"
+    t.text "internal_note"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["name"], name: "index_databases_on_name", unique: true
+    t.index ["url"], name: "index_databases_on_url", unique: true
+    t.index ["vendor_id"], name: "index_databases_on_vendor_id"
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false
@@ -33,4 +47,5 @@ ActiveRecord::Schema[7.0].define(version: 2022_05_27_145759) do
     t.index ["brand_name"], name: "index_vendors_on_brand_name", unique: true
   end
 
+  add_foreign_key "databases", "vendors"
 end
