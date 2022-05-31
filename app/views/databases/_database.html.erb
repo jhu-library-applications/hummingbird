@@ -1,0 +1,37 @@
+<div id="<%= dom_id database %>">
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Vendor:</strong>
+    <%= Vendor.find(database.vendor_id).brand_name %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Name:</strong>
+    <%= database.name %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">URL:</strong>
+    <%= link_to(database.url) %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Enable proxy:</strong>
+    <%= database.enable_proxy %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Description:</strong>
+    <%= database.description %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Internal note:</strong>
+    <%= database.internal_note %>
+  </p>
+
+  <% if action_name != "show" %>
+    <%= link_to "Show this database", database, class: "rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to 'Edit this database', edit_database_path(database), class: "rounded-lg py-3 ml-2 px-5 bg-gray-100 inline-block font-medium" %>
+    <hr class="mt-6">
+  <% end %>
+</div>

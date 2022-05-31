@@ -1,0 +1,10 @@
+<%= simple_form_for @database do |f| %>
+  <%= f.association :vendor, label_method: :brand_name, value_method: :id, include_blank: false,  label: 'Vendor' %>
+  <%= f.input :jhu_id, label: 'JHU ID' %>
+  <%= f.input :name, label: 'Name' %>
+  <%= f.input :url, label: 'URL' %>
+  <%= f.input :enable_proxy, label: 'Enable Proxy?' %>
+  <%= f.input :description, label: 'Description' %>
+  <%= f.input :internal_note, label: 'Internal Note' %>
+  <%= f.button :submit %>
+<% end %>
