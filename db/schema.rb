@@ -10,9 +10,24 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_05_31_201129) do
+ActiveRecord::Schema[7.0].define(version: 2022_06_01_150254) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "categories", force: :cascade do |t|
+    t.string "label"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "database_headings", force: :cascade do |t|
+    t.bigint "database_id", null: false
+    t.bigint "heading_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["database_id"], name: "index_database_headings_on_database_id"
+    t.index ["heading_id"], name: "index_database_headings_on_heading_id"
+  end
 
   create_table "databases", force: :cascade do |t|
     t.bigint "vendor_id", null: false
@@ -28,6 +43,21 @@ ActiveRecord::Schema[7.0].define(version: 2022_05_31_201129) do
     t.index ["name"], name: "index_databases_on_name", unique: true
     t.index ["url"], name: "index_databases_on_url", unique: true
     t.index ["vendor_id"], name: "index_databases_on_vendor_id"
+  end
+
+  create_table "headings", force: :cascade do |t|
+    t.bigint "category_id", null: false
+    t.bigint "subcategory_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["category_id"], name: "index_headings_on_category_id"
+    t.index ["subcategory_id"], name: "index_headings_on_subcategory_id"
+  end
+
+  create_table "subcategories", force: :cascade do |t|
+    t.string "label"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "users", force: :cascade do |t|
@@ -49,5 +79,9 @@ ActiveRecord::Schema[7.0].define(version: 2022_05_31_201129) do
     t.index ["brand_name"], name: "index_vendors_on_brand_name", unique: true
   end
 
+  add_foreign_key "database_headings", "databases"
+  add_foreign_key "database_headings", "headings"
   add_foreign_key "databases", "vendors"
+  add_foreign_key "headings", "categories"
+  add_foreign_key "headings", "subcategories"
 end

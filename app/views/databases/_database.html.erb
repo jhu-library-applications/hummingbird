@@ -11,7 +11,7 @@
 
   <p class="my-5">
     <strong class="block font-medium mb-1">URL:</strong>
-    <%= link_to(database.url) %>
+    <%= link_to(database.url, database.url) %>
   </p>
 
   <p class="my-5">
@@ -27,6 +27,11 @@
   <p class="my-5">
     <strong class="block font-medium mb-1">Internal note:</strong>
     <%= database.internal_note %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Headings:</strong>
+    <%= database.headings.map { |h| h.label }.join(',') %>
   </p>
 
   <% if action_name != "show" %>

@@ -5,7 +5,7 @@ require 'rails_helper'
 RSpec.describe 'Database CRUD Operations', type: :system do
   let(:user) { FactoryBot.create(:user) }
   let(:vendor) { FactoryBot.create(:vendor) }
-  let(:database) { FactoryBot.create(:vendor) }
+  let(:database) { FactoryBot.create(:database) }
 
   before do
     driven_by(:selenium_chrome_headless)

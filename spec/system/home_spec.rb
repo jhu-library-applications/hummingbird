@@ -9,6 +9,6 @@ RSpec.describe 'HomePages', type: :system do
 
   it 'is accessible' do
     visit root_path
-    expect(page).to have_content('Hummingbird')
+    expect(page).to have_content('Databases')
   end
 end

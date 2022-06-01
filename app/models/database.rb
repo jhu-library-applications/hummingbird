@@ -7,4 +7,7 @@ class Database < ApplicationRecord
   validates :url, uniqueness: true, presence: true
   validates :name, uniqueness: true, presence: true
   validates :jhu_id, uniqueness: true, presence: true
+
+  has_many :database_headings, dependent: :destroy
+  has_many :headings, through: :database_headings
 end
