@@ -1,0 +1,6 @@
+"ID","status","staff_note"
+"A","Active","Appears on list and is ready for use by patrons"
+"H","Hidden Activation","Accessible but not listed. Used for staff records about authentication etc."
+"P","Pending Setup","New database in process of activation"
+"T","Tombstoned","Keep durable links active, but displays stub record only."
+"X","Deactivated","To retain a record of cancelled or suspended databases. Not listed and not accessible."
