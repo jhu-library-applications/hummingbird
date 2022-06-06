@@ -46,12 +46,12 @@ RSpec.describe '/subheadings', type: :request do
     context 'with valid parameters' do
       it 'creates a new Subheading' do
         expect do
-          post subheadings_url, params: { subheading: required_attributes }
+          post subheadings_url, params: { subheading: { label: FFaker::Education.major } }
         end.to change(Subheading, :count).by(1)
       end
 
       it 'redirects to the created subheading' do
-        post subheadings_url, params: { subheading: required_attributes }
+        post subheadings_url, params: { subheading: { label: FFaker::Education.major } }
         expect(response).to redirect_to(subheading_url(Subheading.last))
       end
     end
@@ -76,13 +76,13 @@ RSpec.describe '/subheadings', type: :request do
   describe 'PATCH /update' do
     context 'with valid parameters' do
       it 'updates the requested subheading' do
-        patch subheading_url(subheading), params: { subheading: subheading.attributes }
+        patch subheading_url(subheading), params: { subheading: { label: FFaker::Education.major } }
         subheading.reload
         expect(response).to have_http_status(:found)
       end
 
       it 'redirects to the subheading' do
-        patch subheading_url(subheading), params: { subheading: subheading.attributes }
+        patch subheading_url(subheading), params: { subheading: { label: FFaker::Education.major } }
         subheading.reload
         expect(response).to redirect_to(subheading_url(subheading))
       end

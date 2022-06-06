@@ -13,12 +13,13 @@ RSpec.describe '/database_headings', type: :request do
     { jhu_id: database.jhu_id, database_id: database.id, heading_id: heading.id, subheading_id: subheading.id }
   end
 
+  let(:updated_attributes) do
+    { jhu_id: "JHU#{FFaker::Lorem.characters(5)}", database_id: database.id, heading_id: heading.id, subheading_id: subheading.id }
+  end
+
   before do
     sign_in user
-    heading.save!
-    subheading.save!
-    database.save!
-    database_heading.save!
+    [database, heading, subheading, database_heading].each(&:save!)
   end
 
   describe 'GET /index' do
@@ -83,13 +84,13 @@ RSpec.describe '/database_headings', type: :request do
   describe 'PATCH /update' do
     context 'with valid parameters' do
       it 'updates the requested database_heading' do
-        patch database_heading_url(database_heading), params: { database_heading: database_heading.attributes }
+        patch database_heading_url(database_heading), params: { database_heading: updated_attributes }
         database_heading.reload
         expect(response).to have_http_status(:found)
       end
 
       it 'redirects to the database_heading' do
-        patch database_heading_url(database_heading), params: { database_heading: database_heading.attributes }
+        patch database_heading_url(database_heading), params: { database_heading: updated_attributes }
         database_heading.reload
         expect(response).to redirect_to(database_heading_url(database_heading))
       end
