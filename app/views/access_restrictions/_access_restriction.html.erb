@@ -1,0 +1,27 @@
+<div id="<%= dom_id access_restriction %>">
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Restriction type:</strong>
+    <%= AccessRestrictionType.find(access_restriction.access_restriction_type_id).type_label %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Database:</strong>
+    <%= Database.find(access_restriction.database_id).label %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Note:</strong>
+    <%= access_restriction.note %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Private url:</strong>
+    <%= access_restriction.private_url %>
+  </p>
+
+  <% if action_name != "show" %>
+    <%= link_to "Show this access restriction", access_restriction, class: "rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to 'Edit this access restriction', edit_access_restriction_path(access_restriction), class: "rounded-lg py-3 ml-2 px-5 bg-gray-100 inline-block font-medium" %>
+    <hr class="mt-6">
+  <% end %>
+</div>
