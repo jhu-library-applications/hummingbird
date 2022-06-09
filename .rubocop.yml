@@ -14,8 +14,16 @@ RSpec/ExampleLength:
   Exclude:
   - 'spec/**/*.rb'
 
+RSpec/MultipleMemoizedHelpers:
+  Exclude:
+  - 'spec/**/*.rb'
+
 AllCops:
   Exclude:
     - 'db/schema.rb'
     - 'config/initializers/*'
     - 'db/migrate/*'
+    
+Style/Documentation:
+  Exclude:
+   - '**/*'

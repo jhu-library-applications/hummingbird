@@ -1,0 +1,22 @@
+<div id="<%= dom_id database_heading %>">
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Database:</strong>
+    <%= Database.find(database_heading.database_id).label %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Heading:</strong>
+    <%= Heading.find(database_heading.heading_id).label %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Subheading:</strong>
+    <%= Subheading.find(database_heading.subheading_id).label %>
+  </p>
+
+  <% if action_name != "show" %>
+    <%= link_to "Show this database heading", database_heading, class: "rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to 'Edit this database heading', edit_database_heading_path(database_heading), class: "rounded-lg py-3 ml-2 px-5 bg-gray-100 inline-block font-medium" %>
+    <hr class="mt-6">
+  <% end %>
+</div>
