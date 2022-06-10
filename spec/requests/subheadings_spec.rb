@@ -46,7 +46,7 @@ RSpec.describe '/subheadings', type: :request do
     context 'with valid parameters' do
       it 'creates a new Subheading' do
         expect do
-          post subheadings_url, params: { subheading: { label: FFaker::Education.major } }
+          post subheadings_url, params: { subheading: { label: FFaker::Company.name } }
         end.to change(Subheading, :count).by(1)
       end
 
