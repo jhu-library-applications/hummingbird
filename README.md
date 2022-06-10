@@ -49,7 +49,7 @@ docker-compose run hummingbird rake db:drop
 
 Setting up database again
 ```
---rm hummingbird bundle exec rake db:migrate
+docker-compose run --rm hummingbird bundle exec rails db:migrate
 ```
 
 
