@@ -52,4 +52,4 @@ Setting up database again
 docker-compose run --rm hummingbird bundle exec rails db:migrate
 ```
 
-
+Then run the "make" command as above.
