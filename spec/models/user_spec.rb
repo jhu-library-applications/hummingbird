@@ -5,12 +5,15 @@ require 'cancan/matchers'
 
 RSpec.describe User, type: :model do
   let(:user) { described_class.new(email: 'test@example.com', password: 'password', role: 'admin') }
+  let(:reader_user) { described_class.new(email: 'test1@example.com', password: 'password', role: 'reader') }
+  let(:ability) { Ability.new(reader_user) }
 
-  describe "abilities" do
-    it 'has valid permissions' do
-      user.update(role: 'reader')
-      ability = Ability.new(user)
+  describe 'abilities' do
+    it 'can read as reader' do
       expect(ability).to be_able_to(:read, Vendor.new)
+    end
+
+    it 'can not destory as reader' do   
       expect(ability).to_not be_able_to(:destroy, Vendor.new)
     end
   end
