@@ -13,7 +13,6 @@ RSpec.describe 'Database CRUD Operations', type: :system do
 
     vendor.save!
     user.save!
-    
     click_link 'Log in'
     fill_in 'Email', with: user.email
     fill_in 'Password', with: user.password
