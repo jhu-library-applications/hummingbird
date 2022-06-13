@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_06_02_190058) do
+ActiveRecord::Schema[7.0].define(version: 2022_06_06_140103) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -22,7 +22,10 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_02_190058) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["database_id"], name: "index_database_headings_on_database_id"
+    t.index ["heading_id", "subheading_id", "jhu_id", "database_id"], name: "multicolumn_db_heading_index", unique: true
+    t.index ["heading_id", "subheading_id", "jhu_id"], name: "multicolumn_jhu_id_index", unique: true
     t.index ["heading_id"], name: "index_database_headings_on_heading_id"
+    t.index ["jhu_id"], name: "index_database_headings_on_jhu_id", unique: true
     t.index ["subheading_id"], name: "index_database_headings_on_subheading_id"
   end
 
@@ -46,12 +49,14 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_02_190058) do
     t.string "label"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["label"], name: "index_headings_on_label", unique: true
   end
 
   create_table "subheadings", force: :cascade do |t|
     t.string "label"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["label"], name: "index_subheadings_on_label", unique: true
   end
 
   create_table "users", force: :cascade do |t|

@@ -37,3 +37,19 @@ docker-compose up
 ```
 docker-compose run --rm hummingbird bundle exec spec
 ```
+
+
+# Resetting Database on Local Instance
+If you are testing on a local instance and create records in the database, you will want to delete them before testing a newer version that changes the DB schema. Your old records may be in violation of rules in the new version of the DB. 
+
+Delete existing local DB
+```
+docker-compose run hummingbird rake db:drop
+```
+
+Setting up database again
+```
+docker-compose run --rm hummingbird bundle exec rails db:migrate
+```
+
+Then run the "make" command as above.
