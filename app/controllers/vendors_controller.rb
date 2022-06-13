@@ -56,7 +56,7 @@ class VendorsController < ApplicationController
 
   # DELETE /vendors/1 or /vendors/1.json
   def destroy
-    authorize! :destory, @vendor
+    authorize! :destroy, @vendor
     @vendor.destroy
 
     respond_to do |format|
