@@ -13,8 +13,8 @@ RSpec.describe User, type: :model do
       expect(ability).to be_able_to(:read, Vendor.new)
     end
 
-    it 'can not destory as reader' do   
-      expect(ability).to_not be_able_to(:destroy, Vendor.new)
+    it 'can not destory as reader' do
+      expect(ability).not_to be_able_to(:destroy, Vendor.new)
     end
   end
 
