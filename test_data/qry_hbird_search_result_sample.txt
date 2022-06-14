@@ -1,0 +1,1211 @@
+"ID","Title","Vendor","Status","Created","Last Updated"
+"JHU06679","19th Century British Library Newspapers","Gale Group / InfoTrac","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05319","19th Century Index","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06919","19th Century U.S. Newspapers","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07282","A&A ePortal (Art & Architecture ePortal)","Yale University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07191","AAMC Faculty Salary Report","AAMC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06077","ABI/INFORM Collection","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06880","Abstracts in Anthropology","Metapress","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04066","Academic Search Ultimate","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07242","Academic Video Online (AVON)","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05525","Access to Russian Archives","University of Kansas Libraries & Rosarkhiv of","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04345","Access World News Research Collection","NewsBank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06946","AccessEmergency Medicine","McGraw Hill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03570","AccessEngineering","McGraw Hill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06363","Accessible Archives","Accessible Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04346","AccessMedicine","McGraw Hill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06947","AccessPediatrics","McGraw Hill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04730","AccessSurgery","McGraw Hill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06324","Accounting & Tax","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06244","Accounting, Tax & Banking Collection","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03942","ACLS Humanities E-Books","American Council of Learned Societies (ACLS)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03151","ACM Digital Library","Association for Computing Machinery (ACM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03195","ACS Publications","American Chemical Society (ACM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03607","Acta Sanctorum","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05201","Ad*Access","Duke University Libraries Digital Collections","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06475","Advertising Age","Crain Communications","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06951","Africa Confidential","Asempa Limited","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05975","Africa Development Indicators","World Bank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04355","African American Biographical Database: AABD.","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06955","African American Communities","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06906","African American Newspapers, 1827-1998","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04356","African American Newspapers: The 19th Century","Accessible Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03180","African American Poetry, 1760-1900","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07095","African Americans and Jim Crow: Repression and Protest, 1883-1922","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07096","African Americans and Reconstruction: Hope and Struggle, 1865-1883","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07014","African History and Culture, 1540-1921","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06905","African Newspapers, 1800-1927","NewsBank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06000","African Writers Series","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04361","African-American Almanac","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05543","Africa-Wide Information","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06935","Afro Newspaper Morgue Collections","Afro-American Newspapers Archives and Researc","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07203","Age of Exploration","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05148","Agency for Healthcare Research and Quality (AHRQ)","U.S. Department of Health and Human Services","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03035","AGRICOLA","National Agricultural Library (NAL)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05224","AHA Research and Trends","American Hospital Association (AHA)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04727","AIAA Aerospace Research Central","AIAA","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06336","AIDA Online","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06831","AIP Conference Proceedings","American Institute of Physics (AIP)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03535","AIP Scitation","American Institute of Physics (AIP)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07368","Air and Space Law","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05039","Air University Index to Military Periodicals","Defense Technical Information Center (DTIC)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07070","Alloy Finder: Alloy Center Database","ASM International","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04365","Alloy Phase Diagrams","ASM","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07132","ALTBIB: Alternatives to Animal Testing","NLM","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06373","Alternative Press Index","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07067","AM Explorer","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07327","Amateur Newspapers from the American Antiquarian Society (AAS)","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02570","AMED Allied and Complementary Medicine Database","Ovid Technologies","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07299","America in World War Two: Oral Histories and Personal Accounts","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04165","America: History & Life","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07097","American Antiquarian Society (AAS) Historical Periodicals Collection (1691-1820)","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07098","American Antiquarian Society (AAS) Historical Periodicals Collection (1821-1837)","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07099","American Antiquarian Society (AAS) Historical Periodicals Collection (1838-1852)","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07100","American Antiquarian Society (AAS) Historical Periodicals Collection (1853-1865)","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07101","American Antiquarian Society (AAS) Historical Periodicals Collection (1866-1877)","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06685","American Association of Petroleum Geologists (AAPG) Datapages","American Association of Petroleum Geologists","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03170","American Bibliography of Slavic, East European, and Eurasian Studies (ABSEEES)","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07094","American Broadsides and Ephemera","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04368","American Civil War Letters and Diaries","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04825","American Civil War Research Database","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05812","American Community Survey","U.S. Census Bureau","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03734","American Drama, 1714-1915","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06278","American Economic Association (AEA) Journals","American Economic Association (AEA)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03969","American Film Institute Catalog","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07201","American Heart Association Ebooks","Impelsys Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07248","American Hebrew & Jewish Messenger, The (1857-1922)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07212","American Historical Periodicals","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06957","American History, 1493-1945","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07271","American Hospital Association (AHA): Financial Database CMS HCRIS","AHA/Health Forum","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06841","American Hospital Directory: AHD","American Hospital Directory AHD","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06958","American Indian Histories and Cultures","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07204","American Indian Newspapers","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07247","American Israelite, The (1854-2000)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02895","American Meteorological Society Journals","American Meteorological Society (AMS)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04373","American National Biography Online","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05745","American National Election Studies (ANES)","American National Election Studies (ANES)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06185","American Periodicals","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03735","American Poetry, 1600-1900","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07283","American Prison Newspapers 1800-2020: Voices from the Inside","JStor","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07293","American Proxy Wars: Korea and Vietnam, Global Perspectives, 1946-1975","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07037","American Race Relations: Global Perspectives, 1940-1996","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06959","American West","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07342","American Women’s Suffrage Collection, 1762-1922","Accessible Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06418","America's Historical Imprints: Evans and Shaw-Shoemaker","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05250","America's Historical Newspapers 1690-1922","NewsBank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05922","Anatomy.TV powered by Primal Pictures","Informa","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07053","Ancestry Library","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07133","Animal Welfare Information Center","USDA National Agriculture Library","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04375","Année Philologique","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03736","Annual Bibliography of English Language and Literature (ABELL)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02891","Annual Reviews","Annual Reviews & Atypon","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02950","Anthropology Plus","Research Libraries Group (RLG) / Ebsco","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04378","AnthroSource","American Anthropological Association","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07106","Antigua, slavery and emancipation in the records of a sugar plantation, 1689-1907","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07034","APA Academic Writer","American Psychological Association (APA)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02926","APA PsycArticles","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05330","APA PsycEXTRA","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02922","APA PsycINFO","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06839","APA PsycTests","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06961","Apartheid South Africa 1948-1980","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07038","Apartheid: Global Perspectives, 1946-1996","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07192","APIC Text of Infection Control and Epidemiology","Association for Professionals in Infection Co","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06591","Applied Science & Technology Index Retrospective: 1913-1983","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07093","Arabidopsis Information Resource, TAIR","Phoenix Bioinformatics","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06994","ArcGIS Online for Johns Hopkins","ArcGIS","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05810","Archive Finder","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07012","Archives Direct","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07109","Archives of Sexuality and Gender","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06434","Archives Unbound","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07089","ArchivesSpace","Johns Hopkins University Special Collections","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06364","AREAER Database","International Monetary Fund (IMF)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05189","Art & Archaeology Technical Abstracts (AATA Online)","Getty Conservation Institute","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06593","Art Full Text","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06594","Art Index Retrospective : 1929-1984","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07351","Art Magazine Collection Archives","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06235","ARTbibliographies Modern","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04383","ARTFL","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02537","ArticleFirst","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06478","Arts & Humanities Citation Index (AHCI)","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03382","ARTstor","Andrew W. Mellon Foundation","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06253","Asian & European Business Collection","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05766","Asian Development Bank Key Indicators (ADB)","Asian Development Bank (ADB)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04104","ASM Handbooks","ASM International","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02937","ASM Journals","American Society for Microbiology (ASM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06635","ASME Digital Collection","American Society for Microbiology (ASM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06910","Associated Press Collection Online","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04350","Associated Press Images Collection","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05764","Association of Religion Data Archives (ARDA)","Association of Religion Data Archive (ARDA)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05996","ASTM Standards and Engineering Digital Library","ASTM International Standards Worldwide","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03966","Astrophysics Data System (ADS)","Harvard-Smithsonian Center for Astrophysics","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02990","ATLA Religion Database with ATLASerials","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06295","Atlanta Daily World (1931-2003)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07281","Atlanta Journal - Constitution (2001-present)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07229","Atlantic Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07017","Australia & New Zealand Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04391","Autour du romantisme: le roman, 1792-1886","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06236","Avery Index to Architectural Periodicals","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06884","Aviation Week Intelligence Network","Aviation Week","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07238","BabelScores","BabelScores","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06450","Baltimore Afro-American (1893-1988)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05203","Baltimore City CitiStat Reports","CitiStat","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06442","Baltimore Sun (1837-1994)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03500","Baltimore Sun (1990-present)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05254","Balzac: La comedie humaine","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04673","Basic Black","WGBH","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06870","Bates Visual Guide to Physical Examinations","Bates","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06736","BCC Research","BCC Research LLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07240","Begel House Digital Library","Begel House","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07059","Berlin Philharmonic Digital Concert Hall","Berliner Philharmoniker","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04415","Bertolt Brechts Werke","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04398","Bible in English, 990-1970","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04399","Bibliografía de la Literatura Española","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06895","Bibliografia Generale della Lingua Italiana e della Letteratura Italiana (BiGLLI)","Salerno Editrice","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04014","Bibliographie der Deutschen Sprach- und Literaturwissenschaft","Bibliographie der deutschen Sprach- und Liter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04401","Bibliography of American Literature","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03179","Bibliography of Asian Studies","Association for Asian Studies","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04671","Bibliography of British and Irish History","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05997","Bibliography of the History of Art","J. Paul Getty Trust","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05091","BiblioNet: Cent classiques de la littérature française","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06669","Biblioteca Italiana Zanichelli","Casalini Libri","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06552","Bibliotheca Teubneriana Latina (BTL)","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05528","Bibliothèque bleue online","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04404","Bibliotheque des Lettres","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07180","BioCyc Database Collection","SRI International","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04406","Biography and Genealogy Master Index.","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06597","Biography Index Retrospective: 1946-1983","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06246","Biology Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03926","BioMed Central Journals","BioMed Central","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03000","BioOne Complete","BioOne","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07134","BIOSIS Citation Index","Clarivate","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06525","BIOSIS Previews","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04407","Birds of the World Online","Cornell Lab of Ornithology","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06938","Bizminer","Bizminer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07217","Black Abolitionist Papers","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03845","Black Drama, 1850 to Present","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04809","Black Studies Center","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03905","Black Studies Periodicals Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04408","Black Thought and Culture: African Americans to 1975","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07340","Blackwell Encyclopedia of Literary and Cultural Theory","Wiley","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05616","Blackwell Reference Online","Wiley","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07135","BLAST : Basic Local Alignment Search Tool","NCBI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04411","Bloomberg Financial Service","Bloomberg","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07161","Bloomsbury Philosophy Library","Bloomsbury Publishing, Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07167","BLS Statistics on Worker Safety and Health","Bureau of Labor Statistics","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07136","BoardVitals","Stat!Ref","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06836","Book Citation Index - Science","Thomson Reuters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06837","Book Citation Index - Social Sciences and Humanities","Thomson Reuters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06598","Book Review Digest Plus","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06627","Book Review Digest Retrospective: 1903-1982","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06911","Brazilian and Portuguese History and Culture: The Oliveira Lima Library","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07367","Bremer-Kovacs Collection: Historic Documents Related to the Administrative Procedure Act of 1946","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07290","Brepolis Medieval and Early Modern Bibliographies","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04464","Brepols Database of Latin Dictionaries","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05527","Brepols Latin Cross Database Searchtool","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04439","Brepols Library of Latin Texts - Series A (LLT-A)","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05526","Brepols Library of Latin Texts - Series B (LLT-B)","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05167","Brepols Monumenta Germaniae Historica","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06564","Brill Online Reference Works","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07357","Brill.com","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05725","British and Irish Women's Letters and Diaries 1500-1950","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05663","British Library Newspapers 1732-1950","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05659","British Literary Manuscripts Online","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07226","British Online Archives","Microform Academic Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06186","British Periodicals","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05205","Bureau of Economic Analysis (BEA)","U.S. Department of Commerce. Bureau of Economic","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05193","Bureau of Labor Statistics","U.S. Department of Labor, Bureau of Labor Stati","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07005","Business Market Research Collection","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04418","Business Plan Handbooks","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03626","Business Source Ultimate","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03667","CAB Direct","CABI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07088","Cabell's International: Scholarly Analytics","Cabell's","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05822","Cabinet Papers, 1915-1988","National Archives UK","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06943","CAIRN: Bouquet General","CAIRN","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05551","Cambridge Companions Online","Cambridge University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03590","Cambridge Core","Cambridge University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05578","Cambridge Histories Online","Cambridge University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07372","Cambridge Shakespeare","Cambridge University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06270","Canadian Business & Current Affairs Database (CBCA)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06377","Canadian Newsstream","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03737","Canadian Poetry","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05178","Cancer Statistics","National Cancer Institute (NCI), U.S. Nationa","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06254","Career & Technical Education Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06907","Caribbean Newspapers, 1718-1876","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06953","CARMA (Consortium for the Advancement of Research Methods and Analysis)","University of North Dakota","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04947","Catalog of U.S. government publications","Access.gpo","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04923","Centers for Disease Control (CDC) Wonder","Center for Disease Control and Prevention (CDC)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07364","Central Asia, Persia and Afghanistan 1834-1922","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05944","Centre for Economic Policy Research (CEPR) - Publications","CEPR","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06912","Chatham House Online Archive","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07137","ChemIDplus","NLM","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06294","Chicago Defender (1910-1975)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06437","Chicago Tribune (1849-1997)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07280","Chicago Tribune (1996-present)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06845","Child Development & Adolescent Studies","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07301","Children’s Literature and Culture","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04037","China Academic Journals Fulltext (CAJ)","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07328","China and the Modern World","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07218","China Core Newspapers Full Text Database","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06865","China Economy, Public Policy, and Security Database: Pishu","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07119","China Government Gazettes Full-text Database (CGGD)","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07121","China Monographic Series Full-text Database","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07120","China Population by Township","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07058","China Statistical Yearbooks Database","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07371","China Stock Market & Accounting Research Database (CSMAR)","Shenzhen CSMAR Data Technology","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07394","China Theses and Dissertations Database 2000-2022","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06962","China, America and the Pacific: Trade & Cultural Exchange","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06673","China: Culture and Society","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07110","China: From Empire to Republic","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06035","China: Trade, Politics and Culture, 1793-1980","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06815","ChinaMaxx Digital Library","Chinamaxx","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07210","Chinese Ancient Local Gazetteers","Beijing Erudition Digital Technology Research","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06882","Chinese Local Gazetteers","Wanfang Data","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07172","Chinese Students’ Monthly Online","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07163","Christian Science Monitor (1908-2005)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03501","Christian Science Monitor (1988-current)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07270","Chronicle of Higher Education","The Chronicle of Higher Education","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04434","Chronicling America: Historic American Newspapers","Library of Congress","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06963","Church Missionary Society Periodicals","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02675","CINAHL","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06464","CINAHL Plus with Full Text","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04806","CiteSeer X","Pennsylvania State University & CiteSeer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07336","Civil Rights and Social Justice","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04437","Civil War: A Newspaper Perspective","Accessible Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03124","Clase and Periódica","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06473","Classical Latin Texts, Packard Humanities Institute","Packard Humanities Institute (PHI)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04826","Classical Music Reference Library","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06722","Clinical Key","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07125","Clinical Key for Nursing","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06682","Clinical Skills (Formerly Mosby's Nursing Skills)","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04440","ClinicalTrials.gov","National Library of Medicine (NLM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07388","CNBKSY:Full-text Database of Late Qing and Republican Books and Periodicals","Quan Guo Bao Kan Suo Yin (CNBKSY) and Shangha","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07186","CNKI E-Books (Intl) 1905-2020","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02894","Cochrane Library","Wiley","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04185","Code of Federal Regulations","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06834","Colloquium Digital Library of Life Sciences","Morgan & Claypool","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07102","Colonial Africa in official statistics, 1821-1953","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06964","Colonial America","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07360","Colonial Caribbean","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07209","Colonial State Papers","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04446","Commentary Digital Archive","American Jewish Committee","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03042","Communication & Mass Media Complete","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03111","Compendex","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07173","Compilation of Chinese Medicine Periodicals 1897-1952","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07370","Comprehensive English-Yiddish Dictionary","League for Yiddish","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06479","Conference Proceedings Citation Index - Science","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06480","Conference Proceedings Citation Index - Social Sciences","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06833","Confidential Print: Africa, 1834-1966","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06965","Confidential Print: Latin America, 1833-1969","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06966","Confidential Print: Middle East, 1839-1969","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06967","Confidential Print: North America, 1824-1961","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05263","Congress.gov (formerly Thomas)","Library of Congress","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07138","CONSULTANT: Diagnostic Support System for Veterinary Medicine","Cornell School of Veterinary Medicine","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05220","Consumer Expenditure Survey","U.S. Department of Labor","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06731","Context of Scripture Online","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07018","Continental Europe Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07244","Coronavirus Research Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04394","Corpus de la littérature narrative","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05354","Corpus de la littérature narrative du Moyen Âge au 20e siècle","Classiques Garnier Numerique","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07393","Corpus de la première littérature francophone d'Afrique noire","Classiques Garnier Numerique","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04452","Corpus des oeuvres de philosophie en langue francaise","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07063","Cortellis Competitive Intelligence","Clarivate","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05572","Counseling and Psychotherapy Transcripts, Client narratives, and Reference Works","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06322","Counseling and Therapy Videos","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04453","Countrydata.com","PRS Group","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04454","County and city data book","Access.gpo","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05218","County Business Patterns","U.S. Census Bureau","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07263","COVID-19 in America: Response, Issues, and Law","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07128","Covidence","Covidence","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04930","CQ Almanac","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03101","CQ Congress Collection","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03104","CQ Magazine","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04455","CQ Political Money Line","CQ","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05068","CQ Press Library","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03103","CQ Public Affairs Collection","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03393","CQ Researcher Plus Archive","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03102","CQ Supreme Court Collection","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03093","CQ Voting & Elections Collection","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04456","CRC Handbook of Chemistry and Physics","Taylor & Francis","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05185","Crime in the US","U.S. Federal Bureau of Investigations (FBI)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07111","Crime, Punishment, and Popular Culture, 1790-1920","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06688","Criminal Justice Abstracts with Full Text","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06400","Criminal Justice Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07241","CRL Digital Delivery System (DDS)","Center for Research Libraries (CRL)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05738","CSH Protocols","Cold Spring Harbor Laboratory Press.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03337","Current Contents Connect","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05094","Current Digest of the Russian Press","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06855","Current Index to Statistics","American Statistical Association (ASA) & Inst","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06280","Current Protocols","Wiley","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07334","Cyber Security Intelligence","Cyber Security Intelligence","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06827","Dacheng Lao Jiu Kan","Dacheng Data","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06913","Daily Mail Historical Archive, 1896-2016","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04660","Data Axle Reference Solutions","Reference Group Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06838","Data Citation Index","Thomson Reuters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05870","Data Planet","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06550","Data.gov","U.S. Federal Government Agencies","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07077","Database of Chinese Classics Ancient Books","Beijing Erudition Digital Technology Research","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06944","Databases on the History of Contemporary Chinese Political Movements","Chinese University of Hong Kong Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07139","DBGET","Kyoto University Bioinformatics Center","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07079","DBpia","Nuri Media Co.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04789","De Gruyter Online","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07329","Declassified Documents Online: Twentieth-Century British Intelligence","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05385","Defense Technical Information Center (DTIC) Online","U.S. Department of Defense (DOD)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06968","Defining Gender, 1450-1910","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05179","Demographic and Health Surveys","Measure DHS, Macro International","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07069","Der Literarische Expressionismus Online","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04318","Derwent Innovations Index","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07245","Diction Police","Diction Police","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05085","Dictionnaire Historique et Critique: Pierre Bayle","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05088","Dictionnaires d'autrefois: French dictionaries of the 17th, 18th, 19th and 20th centuries","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07261","Digital Library of the Middle East (DLME)","Council for Library and Information Resources","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03844","Digital National Security Archive","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04672","Digital Sanborn Maps, 1867-1970 (Washington, DC and Maryland)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07195","Digital Scholar Lab","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06362","Digital Scriptorium","Columbia University","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05155","Digitale Bibliothek Deutscher Klassiker","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06441","Digizeitschriften","Digizeitschriften","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07175","Diplomat","Diplomat","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07211","DIPPR 801: Chemical Database","Brigham Young University (BYU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04477","DIRLINE directory of health organizations / National Library of Medicine.","National Library of Medicine (NLM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04955","Dissertations of China","Wanfang Data","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07140","DNA Data Bank of Japan (DDBJ)","International Nucleotide Sequence Database Co","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04366","Doctor Finder","American Medical Association (AMA)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06881","Documentary History of the First Federal Congress of the United States of America","Johns Hopkins University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07068","Documenting White Supremacy and its Opponents in the 1920s","Reveal Digital","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07078","Docuseek2 Complete Collection","Docuseek","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02974","DOE Information Bridge","Office of Scientific and Technical Informatio","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06375","DRAM Online","DRAM & Anthology of Recorded Music, Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06671","Dustbooks eDirectories","Dustbooks","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06683","Duxiu","Duxiu","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04481","DYABOLA","Projekt Dyabola","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06025","E&E News","Politico / E&E Publishing","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03739","Early American Fiction 1789-1875","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07112","Early Arabic Printed Books from the British Library","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05789","Early Encounters in North America Peoples, Cultures, and the Environment","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03329","Early English Books Online","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03740","Early English Prose Fiction, 1500-1700","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07302","Early Modern England: Society, Culture & Everyday Life, 1500-1700","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07015","East & South Asia Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07016","East Europe, Central Europe Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07061","East India Company","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06472","East View Universal Databases","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07174","EBMcalc (formerly MedCalc 3000 Medical Calculator)","Stat!Ref","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07386","Ebony Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04120","Ebook Collection","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03625","Ebsco A-Z List","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04131","EconLit with Full Text","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05217","Economic Census","U.S. Census Bureau","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05661","Economist Historical Archive, 1843-2015","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04486","Economist Intelligence Unit Databases (EIU)","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06843","Economist, The","Economist","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04483","EcoSal","American Society for Microbiology (ASM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05090","Ecrits sur l'art de Diderot à Proust","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06555","EDIT 16","Laboratorio per la bibliografia retrospettiva","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04484","Editions and Adaptations of Shakespeare, 1591-1911","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06422","Education Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06379","Education in Video","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06574","Education Index Retrospective: 1929-1983","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06812","Education Source","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06042","Education Statistics","World Bank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06936","Education Week","Editorial Projects in Education (EPE) :: Educ","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05400","Educational Administration Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03327","Eighteenth Century Collections Online","Gale Group / InfoTrac","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07008","Eighteenth Century Drama: Censorship and the Stage","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03741","Eighteenth Century Fiction, 1700-1780","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04485","Eighteenth Century Journals","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07378","EIU China City Data","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07379","EIU China Province Data","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04487","EIU City Data","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04488","EIU Country Data","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05817","EIU Country Report","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07027","EIU Industry Analysis","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03175","EIU Viewpoint","Economist Intelligence Unit (EIU)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06586","Electronic Enlightenment","Bodleian Libraries, University of Oxford","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06125","eLS: Essential for Life Science","Wiley","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03166","EMBASE","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07141","EMBL Nucleotide Sequence Database","International Nucleotide Sequence Database Co","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06670","Emerald Emerging Markets Case Studies Collection","Emerald","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02549","Emerald Insight","Emerald","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06869","Empire Online","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02803","Encyclopaedia Britannica Online","Encyclopædia Britannica, Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07376","Encyclopaedia Iranica","Encyclopaedia Iranica Foundation","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06081","Encyclopaedia Judaica","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06863","Encyclopaedia of Judaism Online","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05863","Encyclopedia of American Government","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04523","Encyclopedia of Major Marketing Campaigns 2007","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05662","Encyclopedia of the Bible and Its Reception","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05896","Energy Citations (DOE)","U.S. Department of Energy (DOE) Offi","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07179","Engineering Village","Engineering Village","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03742","English Drama, 1280-1915","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03743","English Poetry","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03744","English Poetry, Second Edition","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07142","Ensembl Genome Browser","Wellcome Trust, Sanger Institute, EBI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07197","EPS China Statistics","EPS China Data","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02552","ERIC","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07227","ESRI’s Maps for Public Policy","ArcGIS","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06603","Essay and General Literature Retrospective","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04147","Essential Science Indicators","Thomson Reuters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06257","Ethnic NewsWatch","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05976","Ethnographic Video Online","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07303","Ethnomusicology: Global Field Recordings","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04458","Études critiques du 19ème siècleis","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05567","EuroDocs: Online Sources for European History","Harold B. Lee Library, Brigham Young Universi","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04539","Europa Sacra","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05236","European Bibliography of Slavic and East European Studies (EBSEES)","Staatsbibliotek zu Berlin","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06263","European Business","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03097","European Patent Office","European Patent Office (EPO)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06467","European Views of the Americas: 1493 to 1750","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06969","Everyday Life and Women in America, c. 1800-1920","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03745","Faber Poetry Library","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06154","Faculty Opinions (formerly F1000)","Faculty Opinions","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05347","Family & Society Studies Worldwide","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06447","Family Health Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05186","Federal Justice Statistics Resource Center","U.S. Department of Justice, Bureau of Justice S","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04183","Federal Register Library","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05747","Federal Reserve Economic Data (FRED)","Federal Reserve Bank of St. Louis","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05170","Fedlaw","Fedlaw","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04103","FedStats","U.S. Federal Government Agencies","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03847","Film & Television Literature Index with Fulltext","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03968","Film Index International","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05228","Film Literature Index","Indiana University. Film & Television Documen","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04370","Film Scripts Online","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07264","Films on Demand","InfoBase","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07265","Films On Demand: Archival Films & Newsreels Collection","InfoBase","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06173","Films on Demand: Business and Economics Videostreaming Collection","InfoBase Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07269","Films on Demand: Feature Films for Education","InfoBase","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07266","Films On Demand: World Cinema Collection","InfoBase","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06995","Financial Times Digital Subscription (FT.com)","Financial Times","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06829","Financial Times Historical Archive 1888-2010","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07122","Fire Insurance Maps Online (FIMo)","Historical Information Gatherers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06970","First World War","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05744","FirstHand","FirstHand","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07031","FitchConnect","Fitch Ratings / Business Monitor Internationa","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07243","Flipster","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07304","Food and Drink in History","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07230","Forbes Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05979","Foreign & International Law Resources","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05576","Foreign Broadcast Information Service (FBIS) Daily Reports, 1941 - 1996","Newbank & Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04543","Foreign Broadcast Information Service (FBIS) Electronic Index (1975-1996)","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06971","Foreign Office Files for China, 1919-1980","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06972","Foreign Office Files for India, Pakistan and Afghanistan, 1947-1980","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07084","Foreign Office Files for Japan, 1919-1952","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07305","Foreign Office Files for South East Asia, 1963-1980","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07006","Foreign Office Files for the Middle East, 1971-1981","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05074","Foreign Relations of the United States","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07046","ForeignAffairs.com","Foreign affairs (New York, N.Y.)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07231","Fortune Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07285","Foundation Directory Online","Foundation Center","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07374","Founders Early Access","University of Virginia Press / Rotunda","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05087","FRANTEXT Database","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04544","French women writers","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07011","Frontier Life: Borderlands, Settlements and Colonial Encounters","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02494","Funk & Wagnalls New World Encyclopedia","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05477","Gale Cengage A-Z List","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05827","Gale Directory Library","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03896","Gale Ebooks","Gale Group","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02583","Gale in Context: Biography","Gale Group / InfoTrac","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05946","Gale in Context: Environmental Studies","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07275","Gale Literary Index","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06877","Gale Literature","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04987","Gale Literature Resource Center","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04941","Gale Literature: Book Review Index","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07216","Gale Power Search","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06878","Gale Primary Sources","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07198","GAO Reports and Comptroller General Decisions","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04547","Gartner Advisory Intra Web","Gartner","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07143","GenBank","NCBI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05177","Gender Statistics","World Bank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03666","Gender Studies Database","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07205","Gender: Identity and Social Change","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06259","GenderWatch","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05150","Genetics and Public Policy Center","JScholarship","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03007","GeoRef","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07194","GeoScienceWorld","GeoScienceWorld","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04043","Gerritsen Women's History Collection of Aletta H. Jacobs","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06973","Global Commodities: Trade, Exploration & Cultural Exchange","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06885","Global Financial Data (GFD)","Global Financial Data","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04932","Global Financial Development","World Bank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05246","Global Health, 1910 Forward","OvidSP or Ovid SP","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05197","Godefroy: Dictionnaire de l'ancienne langue francaise","Classiques Garnier Numerique","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04553","Goethes Werke","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05064","Google News Archive","Google","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04927","Google Patents","Google & US Patent and Trademark Office (USPT","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03174","Google Scholar","Google","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06217","GPO FDsys (Federal Digital Systems)","U.S. Government Printing Office","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02633","GPO Monthly Catalog","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05255","Grand Robert de la langue française","Canal Numerique des Savoirs","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06974","Grand Tour","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04287","GreenFILE","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06001","Guardian (1821-2003) and the Observer (1791-2003)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05865","Guide to Congress","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05866","Guide to Political Campaigns in America","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05867","Guide to the Presidency","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05869","Guide to the U.S. Supreme Court","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05868","Guide to U.S. Elections","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07090","Gun Regulation and Legislation in America","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02944","Handbook of Latin American Studies","Library of Congress","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04562","Handbooks in Economics on ScienceDirect","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04827","Harper's Weekly, 1857-1912","HarpWeek","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05900","HathiTrust Digital Library","HathiTrust","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06269","Health & Medical Collection","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05754","Health and Medical Care Archive","ICPSR & Robert Wood Johnson Foundation","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02811","Health Source - Consumer Edition","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02766","Health Source: Nursing/Academic Edition","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04967","Health United States.","Center for Disease Control and Prevention (CDC)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05268","Healthcare Cost & Utilization Project","Agency for Healthcare Research and Quality (A","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06175","Hebraica and Judaica of the Tychsen Collection and the Rostock University Library","Harald Fischer Verlag","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07384","Hebrew and Aramaic Lexicon of the Old Testament Online","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06832","Hebrew and Judeo-Arabic Printing in Baghdad Online","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04968","Hein Online","Hein","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06940","Henry Stewart Talks: The Business & Management Collection","Henry Stewart Talks, Ltd.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06556","Heritage of the Printed Book Database (HPB)","Consortium of European Research Libraries","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04265","Historic Documents Series","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04166","Historical Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04816","Historical Newspapers Online","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04566","Historical Statistics of the United States","Cambridge University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07362","History Makers: the Nation's Largest African American Video Oral History Collection","HistoryMakers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02713","History of Science, Technology, and Medicine","Research Libraries Group (RLG) / Ebsco","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07236","History of Supreme Court Nominations","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05611","History Reference Online","ABC-CLIO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06830","History Vault","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06728","Homeland Security Digital Library (HSDL)","Naval Postgraduate School, Center for Homelan","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04568","Hoovers Online","Hoover's Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07144","Human Gene Mutation Database (HGMD)","Cardiff University","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07145","Human Protein Reference Database","Pandy Lab & Institute of BioInformatics","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05424","Human Resources Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06606","Humanities & Social Sciences Index Retrospective: 1907-1984","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03400","Humanities International Index","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07076","Iberoamericana Vervuert E-book Collection","Casalini Libri","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04574","ICSD - Inorganic Crystal Structure Database","FIZ Karlsruhe","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07324","Ideas: Economic Literature","RePEc service, Federal Reserve Bank of St. Lo","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03344","IEEE Xplore","IEEE","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06674","IET Digital Library - eBooks","Institution of Engineering and Technology (IE","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04551","IHS Markit Connect","IHS Markit","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06026","Illustrated London News Historical Archive, 1842-2003","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05796","Image Collection","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04781","Images from the History of Medicine","National Library of Medicine (NLM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06281","IMF eLibrary","International Monetary Fund (IMF)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06471","IMF eLibrary Data","International Monetary Fund (IMF)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07258","Immanuel Kant: Vorlesungen","Past Masters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07035","Immigrations, Migrations and Refugees: Global Perspectives, 1940-1996","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07298","Imperial Russian Newspapers","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07044","InCites: Benchmarking & Analytics","Thomson Reuters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07284","Independent and Revolutionary Mexican Newspapers","Global Press Alliance / Eastview","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06887","Independent Voices","Reveal Digital","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05101","Index Islamicus","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03984","Index to Jewish Periodicals","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07047","Index to Printed Music","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05157","IndexCat: Service of the National Library of Medicine (NLM)","National Library of Medicine (NLM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07019","India Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06975","India, Raj and Empire","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06734","IndiaStat.com","Datanet India","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06915","Indigenous Peoples of North America","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07381","INFORMS Pubs Online","INFORMS","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03143","ingentaconnect.com","Ingenta","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04831","Inspec Archive, Science Abstracts, 1898-1968","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07148","Integrative Medicine","General Internal Medicine at The Johns Hopkin","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07040","IntelCenter Database (ICD)","IntelCenter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07146","Interactive Dermatology Atlas","Richard P. Usatine and Brian D. Madden","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06996","International African Bibliography Online","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06445","International Bibliography of Art","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06212","International Bibliography of the Social Sciences (IBSS)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07113","International Herald Tribune Historical Archive 1887-2013","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03668","International Political Science Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06733","International Security & Counter-Terrorism Reference Center","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05762","International Women's Periodicals","Primary Source Media","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03132","IOP Science","Institute of Physics (IOP)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06628","IPA Source","IPA Source","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05724","IPUMS Series","University of Minnesota, Minnesota Population","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04584","Iter: Gateway to the Middle Ages and Renaissance","Iter Italicum","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07206","J. Walter Thompson: Advertising America","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06729","Jacoby Online","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05242","Janes Online","Janes","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07000","Japan Times Digital Archive","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05056","Japanese Patents","Japanese Patent Office","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06105","JapanKnowledge + NRK","NetAdvance","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07387","JET Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07246","Jewish Advocate, The (1905-1990)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07249","Jewish Exponent, The (1887-1990)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06976","Jewish Life in America, c 1654-1954","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07123","Jewish Studies Perspectives, 1800-1918","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07147","JHU Experts Research Profiles (JHMI Faculty)","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06732","Joanna Briggs Institute EBP Database","Ovid","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07199","John F. Kennedy Assassination Collection","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06717","Jorge Luis Borges Collection Digital Archive","Portico","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04588","Journal Citation Reports","Clarivate","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07356","Journal of Medical Insights (JoMI)","JOMI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03185","Journals@Ovid Full Text","OvidSP or Ovid SP Technologies","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05216","JScholarship","Johns Hopkins University Libraries","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03294","JSTOR","JStor","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07200","JSTOR Security Studies Collection","JStor","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04589","Kafkas Werke","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06909","Kanopy Streaming Video","Kanopy Streaming Service","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07074","KCI - Korean Journal Database (1980-present)","Thomson Reuters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06715","Key Business Ratios Database (current data)","Mergent","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04810","King James Bible","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06868","Klapp Online (Bibliographie der französischen Literaturwissenschaft)","Vittorio Klostermann","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06279","Klassik Online","Herzogin Anna Amalia Bibliothek / Klassik Sti","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06215","KLG Online","Munzinger","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07272","Kotar Library (Kotor Eyun)","CET – The Center for Educational Technology","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07080","KRpia","Nuri Media Co.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05092","La Poésie française du Moyen-Age à la première guerre mondiale","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06894","LandScan","East View Information Services","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07225","Late Qing and Republican-Era Chinese Newspapers","Center for Research Libraries (CRL)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07020","Latin America & Iberian Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06902","Latin American News Digest","Latin American News Digest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06933","Latin American Newspapers, 1800-1922","NewsBank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05753","Latin News","Latin American Intelligence Research","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04823","Latino Literature: Poetry, Drama and Fiction","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07343","Le Monde (1944 - 2000)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05444","Lecture Notes in Computer Science","MetaPress & Springer Link","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05425","Left Index","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04207","Legal Classics","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07009","Leisure, Travel & Mass Culture: The History of Tourism","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07176","Lexicomp","Wolters Kluwer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04597","Lexikon des Mittelalters","Brepols Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06917","Liberty Magazine Historical Archive, 1924-1950","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02503","Library of Congress Online Catalog","Library of Congress","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04158","Library, Information Science & Technology Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07149","LILACS - Latin American and Caribbean Health Sciences Literature","Virtual Health Library","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06304","LISA: Library and Information Science Abstracts","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06978","Literary Manuscripts: 17th and 18th Century Poetry from the Brotherton Library, University of Leeds","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06977","Literary Manuscripts: Victorian Manuscripts","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07085","Literary Print Culture: The Stationer's Company Archives","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04817","Literary Theory","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03177","Literature Online","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06356","London Low Life","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06451","Los Angeles Sentinel (1934-2005)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06440","Los Angeles Times (1881-2010)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06439","Los Angeles Times (1985-present)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04841","LWW Journals Online","OvidSP or Ovid SP Technologies","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06979","Macmillan Cabinet Papers, 1957-1963","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06998","Magazine Plus","Nichigai Web Service","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07389","Maison ONA","Maison ONA","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07108","Making of Modern Law: American Civil Liberties Union Papers","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07116","Making Of Modern Law: Foreign Primary Sources, 1600-1970","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07115","Making of Modern Law: Foreign, Comparative, International Law, 1600-1926","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07001","Making of Modern Law: Legal Treatises, 1800-1926","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07002","Making of Modern Law: Primary Sources, 1620-1970","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07114","Making of Modern Law: Trials, 1600-1926","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07056","Making of Modern Law: U.S. Supreme Court Records and Briefs, 1832-1978","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04240","Making of the Modern World, 1450-1945","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07257","Manuscripts of Charles Sanders Peirce","Past Masters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07072","Map Vault","East View Geospatial","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06956","Market Research & American Business, 1935-1965","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04610","MarketResearch.com Academic","Marketresearch","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04612","Maryland County Histories","Accessible Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05202","Maryland State Data Center (MSDC)","Maryland. Department of Planning.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02768","MAS Ultra School Edition","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07344","Mass Incarceration and Prison Studies","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05734","Mass Observation Online: British Social History, 1937-1972","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07306","Mass Observation Project: 1981-2009","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02677","MasterFILE Premier","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02571","MathSciNet : Mathematical Reviews","American Mathematical Society (AMS)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05311","MatWeb : Material Property Data","MatWeb, LLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04991","MDConsult","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07228","MedDRA","International Council for Harmonisation of Te","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05222","Medical Expenditure Panel Survey","U.S. Department of Health and Human Services","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07086","Medical Services and Warfare","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06846","Medici.tv","Medici.tv","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06980","Medieval Family Life","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06981","Medieval Travel Writing","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02733","MEDLINE","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04934","MedLine Plus","National Library of Medicine (NLM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06993","MedOne Neurosurgery","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07223","MedOne Ophthalmology","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07033","MedOne Otolaryngology","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07222","MedOne PlasticSurgery","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07032","MedOne Radiology","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06982","Meiji Japan","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06378","Mental Measurements Yearbook with Tests in Print","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05761","Merck Index","CambridgeSoft ; Merck & Co.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03960","MERCK Manuals - Online Medical Library","Merck & Co., Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06666","Mergent Archives","Mergent","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06283","Mergent BondViewer","Mergent","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07118","Mergent Data Explr","Mergent","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07052","Mergent Intellect","Mergent, Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04615","Mergent Online by FTSE Russell","Mergent","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07187","Met Opera on Demand","Metropolitan Opera","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04876","MicroMedex Healthcare Series","Thomson MicroMedex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07021","Middle East & Africa Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04379","Middle East Online: Arab Israeli Relations 1917-1970","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05660","Middle East Online: Iraq, 1914-1974","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07233","Middle Eastern and North African Newspapers","Center for Research Libraries (CRL)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06983","Migration to New Worlds","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02806","Military & Government Collection","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07355","Military and Government Database","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06264","Military Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06901","Million Dollar Database","Mergent","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05755","Minority Data Resource Center","ICPSR","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04935","Mintel Oxygen","Mintel","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07383","MIT Press Direct","MIT Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07155","Mitomap - a Human Mitochondrial Genome Database","Foswiki","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03963","MLA Directory of Periodicals","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03044","MLA International Bibliography","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05086","Montaigne Project","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06563","Morningstar Investment Research Center","Morningstar","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07154","Mouse Genome Informatics, MGI","Jackson Laboratory","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06852","MRS Online Proceedings Library","Cambridge University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03849","Music Index","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05584","Music Online: American Music","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05806","Music Online: Classical Music Library","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05807","Music Online: Classical Scores Library","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05620","Music Online: Opera in Video","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05876","Music Online: Smithsonian Global Sound for Libraries","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06002","Music Online: The Garland Encyclopedia of World Music","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06342","Music Periodicals Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04621","Musical America Worldwide","Commonwealth Business Media","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07153","NARIC's REHABDATA Literature Database","NARIC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04925","NASA Technical Reports","U.S. National Atmospheric and Scientific Admi","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05154","Nation Archive Premium Edition","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05756","National Archive of Computerized Data on Aging","ICPSR","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05757","National Archive of Criminal Justice Data","ICPSR","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05759","National Archive of Criminal Justice Data (NACJD)","ICPSR","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07286","National Bureau of Asian Research (NBR)","National Bureau of Asian Research / NBR","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05749","National Center for Education Statistics (NCES)","U.S. Dept. of Education, Institute for Educat","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05182","National Center for Health Statistics (NCHS)","National Center for Health Statistics (NCHS),","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06323","National Criminal Justice Reference Service (NCJRS) Abstracts Database","U.S. Department of Justice , Office of Justic","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06922","National Geographic Virtual Library","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06861","National Population Census of China","CNKI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05223","National Practitioner Data Bank","U.S. Department of Health and Human Services","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05181","NationMaster","NationMaster.com","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06676","Natural Medicines (Formerly Natural Standard and Natural Medicines Comprehensive Database)","Natural Standard","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07131","Naxos Music Library: Jazz","Naxos","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03096","NBER Working Papers","National Bureau of Economic Research (NBER)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05317","NCBI Structure Group","National Center for Biotechnology Information","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07164","NCCN Drugs and Biologics Compendium","National Comprehensive Cancer Network","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07189","NeoFax (Click on NeoFax tab under Micromedex)","IBM","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04188","New England Journal of Medicine Full Text","Massachusetts Medical Society","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05728","New Palgrave Dictionary of Economics Online","Palgrave Macmillan","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06730","New Pauly and Supplements","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03973","New Republic Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06452","New York Amsterdam News (1922-1993)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04629","New York Review of Books","New York Review","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06296","New York Times (1851-2016)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03502","New York Times (1980-current)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05609","New York Times Book Reviews","New York Times","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07380","New York Times Digital Edition","New York Times","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07039","Newsbank / Readex A-Z Databases","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04475","Nexis Dossier","Lexis/Nexis","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04598","Nexis Uni","Lexis/Nexis","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07335","Nietzsche Online","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07165","NIH RePORTER","NIH","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06668","Nineteenth Century Collections Online","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03746","Nineteenth Century Fiction","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07307","Nineteenth Century Literary Society: The John Murray Publishing Archive","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05428","Nineteenth Century Microfiche Project","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05427","Nineteenth Century Short Title Catalogue","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04344","Nineteenth Century UK Periodicals","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05312","NIST Property Search","National Institute of Standards and Technolog","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06989","Nixon Years, 1969-1974","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07064","NK News Pro","NK Consulting Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03955","North American Immigrant Letters, Diaries and Oral Histories","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04821","North American Women's Drama","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03967","North American Women's Letters and Diaries, Colonial to 1950","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03113","NTIS Bibliographic Database","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07294","Nuclear Arms and Weapons of Mass Destruction: Global Perspectives, 1945-1996","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07166","Nucleic Acids Database","Rutgers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06268","Nursing & Allied Health Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07323","Nursing Education in Video, Third Ed.","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07024","Nursing Reference Center","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03821","O’Reilly for Higher Education","O’Reilly Media","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05467","OAIster","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07160","OBRC : Online Bioinformatics Resources Collection","University of Pittsburgh","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06117","OECD iLibrary","Organisation for Economic Cooperation and Dev","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05474","OECD Statistics","Organisation for Economic Cooperation and Dev","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07292","OECD.Stat","Organisation for Economic Cooperation and Dev","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06684","Official ABMS Directory of Board Certified Medical Specialists","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05271","Official Index to the Times 1906-1980","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03545","Old Testament Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06151","Oldenbourg Link","Oldenbourg Verlagsgruppe","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07159","OMIM : Online Mendelian Inheritance in Man :  an Online Catalog of Human Genes and Genetic Disorders","JHU","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06860","OMMBID: Metabolic and Molecular Bases of Inherited Disease","McGraw Hill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04376","Online Egyptological Bibliography (OEB)","Griffith Institute, Faculty of Oriental Studi","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07288","Open Book Publishers","Open Book Publishers","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06908","Open Dissertations","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07157","Open Grey : System for Information on Grey Literature in Europe","CNRS, INIST","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07029","Open Library of the Humanities","Open Library of Humanities (OLH)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07358","Open Society Justice Initiative","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07043","OpenEdition: Catalogue.org","OpenEdition Freemium for Journals","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07158","Open-i : Open Access Biomedical Image Search Engine","NLM","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05811","Opera del Vocabolario Italiano","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06727","OpinionArchives.com","Opinion Archives or OpinionArchives.com","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03094","Optica Publishing Group","Optical Society of America (OSA)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04041","Oral History Online","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05903","Orchestral Music Online","Scarecrow Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07091","Oriental Economist, The (1934-1985)","Japan Knowledge","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05999","Otzar Hahochma","Otzar HaHochma","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06859","OVID Medline 1946 - Present","Ovid","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05431","OvidSP A-Z List","OvidSP or Ovid SP","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04997","Oxford African American Studies Center","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05535","Oxford Art Online","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06931","Oxford Bibliographies Online","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06871","Oxford Bibliographies Online: African Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06924","Oxford Bibliographies Online: American Literature","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07254","Oxford Bibliographies Online: Art History","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06925","Oxford Bibliographies Online: Atlantic History","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07162","Oxford Bibliographies Online: Biblical Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06926","Oxford Bibliographies Online: British and Irish Literature","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06872","Oxford Bibliographies Online: Chinese Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06850","Oxford Bibliographies Online: Cinema & Media Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06357","Oxford Bibliographies Online: Classics","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07049","Oxford Bibliographies Online: Environmental Science","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06849","Oxford Bibliographies Online: Islamic Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06672","Oxford Bibliographies Online: Latin American Studies","Oxford","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06847","Oxford Bibliographies Online: Linguistics","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07375","Oxford Bibliographies Online: Literary and Critical Theory","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06927","Oxford Bibliographies Online: Medieval Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06928","Oxford Bibliographies Online: Military History","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07255","Oxford Bibliographies Online: Music","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06929","Oxford Bibliographies Online: Philosophy","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06930","Oxford Bibliographies Online: Renaissance and Reformation","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07050","Oxford Bibliographies Online: Sociology","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07253","Oxford Bibliographies Online: Victorian Literature","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04637","Oxford Classical Dictionary, 3 ed.","Intelex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06896","Oxford Classical Dictionary, 4 ed.","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04638","Oxford Dictionary of National Biography","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02560","Oxford English Dictionary","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07347","Oxford Handbooks Online: Archaeology","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07348","Oxford Handbooks Online: Classical Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06873","Oxford Handbooks Online: Economics and Finance","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06952","Oxford Handbooks Online: History","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07259","Oxford Handbooks Online: International Criminal Law","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07349","Oxford Handbooks Online: Literature","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07350","Oxford Handbooks Online: Music","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07055","Oxford Handbooks Online: Philosophy","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06874","Oxford Handbooks Online: Political Science","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03050","Oxford Journals","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05536","Oxford Music Online","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03014","Oxford Reference Online","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05610","Oxford Reference Online Bilingual Dictionaries","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07219","Oxford Research Encyclopedias","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07003","Oxford Scholarly Editions Online (OSEO)","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04901","Oxford Scholarship Online","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05824","Oxford Scholarship Online: Business and Management","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06104","Oxford Scholarship Online: Classical Studies","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05235","Oxford Scholarship Online: Economics and Finance","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06359","Oxford Scholarship Online: History","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06457","Oxford Scholarship Online: Linguistics","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06358","Oxford Scholarship Online: Literature","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06456","Oxford Scholarship Online: Neuroscience","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05233","Oxford Scholarship Online: Political Science","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05825","Oxford Scholarship Online: Psychology","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06419","Oxford Scholarship Online: Public Health and Epidemiology","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05232","Oxford Scholarship Online: Religion","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05826","Oxford Scholarship Online: Social Work","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06385","PAIS Index","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05270","Palmer's Index to the Times 1790-1905","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02612","PapersFirst","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06050","Parker Library on the Web","Corpus Christi College, Stanford University L","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07152","Pascal and Francis Database Archive","BibCnrs","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05459","Passport GMID - Euromonitor","Euromonitor International","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04640","Past Masters: Full Text of Classic Works in the Humanities","Intelex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03249","Patrologia Latina","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05402","Peace Research Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07156","PEDro : The Physiotherapy Evidence Database","Centre for Evidence-Based Physiotherapy","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04643","Pennsylvania Gazette, 1728-1800","Accessible Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06719","People's Daily (1946-present)","Oriprobe","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06984","Perdita Manuscripts","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06343","Performing Arts Periodicals Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03366","Periodicals Archive Online","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03089","Periodicals Index Online","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05256","Pew Research Center","Pew Research Center","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06047","Phase Equilibria Diagrams Online","American Ceramics Society (ACS)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06453","Philadelphia Tribune (1912-2001)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04907","Philosopher's Index","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06879","PhilPapers","Centre for Digital Philosophy","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06867","Picture Post Historical Archive, 1938-1957","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06454","Pittsburgh Courier (1911-2002)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07073","Pivot","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04646","Policy File Index","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07041","PolicyMap","The Reinvestment Fund (TRF)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07213","Political Extremism and Radicalism","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05147","Political Handbook of the World","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04931","Political Reference Suite for Schools","CQ Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05076","Political Science Journals (Plus)","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04647","Polling the Nations","InfoBase","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05003","Poole's Index to Periodical Literature","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06985","Popular Culture in Britain and America, 1950-1975: Rock and Roll, Counterculture, Peace and Protest","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06986","Popular Medicine in America, 1800-1900","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06636","Post-War Europe: Refugees, Exile and Resettlement, 1945-50","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07308","Poverty, Philanthropy and Social Conditions in Victorian Britain","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06055","Pravda (current year)","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07295","Pravda Archive, 1959-1996","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06054","Pravda Digital Archive (1912-2009)","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07365","Pravda Digital Archive, 1912-1991","EastView Global Press Archive","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04649","Press Reader","NewspaperDirect Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02771","Primary Search","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06735","PrivCo - Private Company Financial Data Authority","PrivCo","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02611","ProceedingsFirst","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04313","Project Euclid","Cornell University Library","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03588","Project Muse","Johns Hopkins University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07296","Propaganda and the Chinese Press: Global Perspectives, 1946-1996","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06069","ProQuest All Subscribed Content","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06443","ProQuest Central","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07057","Proquest Civil War Era","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06247","ProQuest Computing","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04599","ProQuest Congressional","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06249","Proquest Dissertations and Theses Global","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03388","Proquest Ebook Central","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05070","Proquest Historical Newspapers","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06997","Proquest Historical Newspapers: Chinese Newspapers Collection","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07220","Proquest International Newsstream","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07250","Proquest Legislative Insight","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07251","Proquest Regulatory Insight","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07287","ProQuest TDM Studio","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06250","ProQuest US Newsstream","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05007","Provencal database","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04117","PsycCRITIQUES (APA)","Center for the History of Psychology at the U","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07126","PsychiatryOnline","American Psychiatric Publishing","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03583","Psychoanalytic Electronic Publishing (PEP)","Psychoanalytic Electronic Publishing","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06265","Psychology Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06239","PTSDpubs","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06897","PubAg","USDA National Agriculture Library","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04739","PubChem","NCBI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07215","Public Health Archives: Public Health in Modern America, 1890-1970","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07071","Publisher's Weekly Archive (1872-2016)","NA Publishing","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07224","PubMed","U.S. National Library of Medicine (N","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07130","PubMed Central (PMC)","National Library of Medicine (NLM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06923","Punch Historical Archive, 1841-1992","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07274","Queen Victoria's Journals","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07382","Qwest TV","Qwest TV","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04787","Race Relations Abstracts","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07060","Race Relations in America","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03141","RAMBI Index of Articles on Jewish Studies","Jewish National and University Library","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04657","Rare Books : a Digital Library of Reference Works","Stanford University","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06619","Readers' Guide Retrospective: 1890-1982","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05947","Reaxys","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03523","Reference Universe","Paratext","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07311","Refinitiv Workspace","Refinitiv","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07330","Refugees, Relief, and Resettlement:Forced Migration and World War II","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02924","Regional Business News","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07004","Religion and the Law","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06255","Religion Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07214","Religions of America","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07237","Reports of U.S. Presidential Commissions and Other Advisory Bodies","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06189","Research Library","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07369","Research Methods: Primary Sources","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07309","Research Source","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07314","Research Source: Area Studies, China and Southeast Asia","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07312","Research Source: Area Studies, India","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07313","Research Source: Area Studies, Japan","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07322","Research Source: Business, Economic and Labour History","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07315","Research Source: Church Missionary Society Archive","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07316","Research Source: Empire Studies","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07317","Research Source: Literary Studies","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07318","Research Source: Medieval and Early Modern Studies","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07319","Research Source: Missionary Studies","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07320","Research Source: Women's Studies","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07321","Research Source: World War Two Studies","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05011","Responsa Project Online","Bar Ilan University","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04662","Révolution et l'Empire","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06686","Rhizome ArtBase","Rhizome","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03409","RILM Abstracts of Music Literature (1967-present)","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05465","RIPM - Retrospective Index of Music Periodicals","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05468","RISM : Répertoire International des Sources Musicales","Repertoire International des Sources Musicale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04667","Romanciers Realistes et Naturalistes","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06987","Romanticism: Life, Literature & Landscape","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05259","Roper iPoll","Roper Center, Cornell University","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07256","Rosenne's Law and Practice of the International Court: 1920-2015","Brill","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05847","Routledge Encyclopedia of Philosophy","Routledge","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04036","Royal Society of Chemistry","Royal Society of Chemistry (RSC) Publishing","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04685","S&P Netadvantage","Standard & Poors / McGraw Hill Financial","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06920","Sabin Americana: History of the Americas, 1500–1926","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07168","SafetyLit : Injury Prevention Literature","WHO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07260","SAGE Books","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07025","SAGE Business Cases","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03917","SAGE Journals Online","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06875","SAGE Knowledge","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06876","SAGE Research Methods Online","Sage","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04674","Schillers Werke","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03908","Schomburg Studies on the Black Experience","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07092","SciELO Citation Index (1997-present)","Clarivate","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06476","Science Citation Index (SCI)","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06266","Science Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06156","Science Magazine","American Association for the Advancement of S","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07333","Science of Synthesis (Thieme)","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05873","ScienceDirect","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05902","SciFinder (old)","American Chemical Society (ACM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07359","SciFinder-n","American Chemical Society (ACM)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05906","SCOPUS","Elsevier","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04819","Scottish Women Poets of the Romantic Era","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04678","SDC Platinum","Thomson Reuters","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07207","Service Newspapers of World War Two","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05062","Seventeenth and Eighteenth Century Burney Newspapers Collection","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07107","Seventeenth and Eighteenth Century Nichols Newspapers Collection","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07310","Sex & Sexuality","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07010","Shakespeare in Performance: Prompt Books from the Folger Shakespeare Library","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07300","Shakespeare's Globe Archive: Theaters, Players & Performance","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06623","Short Story Index","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06624","Short Story Index Retrospective: 1915-1983","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07339","Sierra Leone under colonial rule, in Government reports, 1893-1961","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05267","Siku Quanshu Online","Dizhi Publishing Company","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07030","Simmons Academic Program","Experian Marketing Solutions","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06536","SimplyAnalytics","SimplyMap or Simply Map","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05314","SIRI MSDS Index","Vermont Safety Information Resources, Inc. (S","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05656","Slavery and Anti-Slavery: A Transnational Archive","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07185","Slavery in America and the World: History, Culture & Law","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07104","Slavery in Jamaica, records from a family of slave owners, 1686-1860","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06988","Slavery, Abolition & Social Justice","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07337","Slavery: Supporters and Abolitionists 1675-1865","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06921","Smithsonian Collections Online","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05069","Social and Cultural History: Letters and Diaries Online","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06549","Social Explorer","Social Explorer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06267","Social Science Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05594","Social Science Research Network (SSRN)","Social Science Electronic Publishing","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06477","Social Sciences Citation Index (SSCI)","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06276","Social Services Abstracts","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05743","Social Theory","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07054","Socialism on Film: The Cold War and International Propaganda","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06274","Sociological Abstracts","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05187","Sourcebook of Criminal Justice Statistics","U.S. Department of Justice, Bureau of Justice S","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07103","South Africa in records from colonial missionaries, 1819-1900","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07385","South Asian Newspapers","East View Press / Center for Research Librari","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07366","Southeast Asian Newspapers","Center for Research Libraries (CRL)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07391","Sowetan Historical Archive, 1981-2019 (Johannesburg, South Africa)","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03803","SPIE Digital Library","International Society for Optical Engineering","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03402","SPIRES HEP Literature Database","Stanford Linear Accelerator Center (SLAC)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03693","SPORTDiscus with Full Text","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07352","Sports Illustrated Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07363","Spotlight News US","SpotlightNews","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04881","Springer Nature Experiments","Springer Nature","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05015","SpringerLINK","Springer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06103","SpringerMaterials","Springer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03829","Stanford Encyclopedia of Philosophy","Stanford University","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07082","STAT Plus","STAT","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07196","STAT!Ref","Teton Data Systems","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05751","State Health Facts","Kaiser Family Foundation","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06374","State Papers Online: the Government of Britain 1509-1782","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05570","Statesman's Yearbook Online","Springer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06950","Statista: the Statistics Portal","Statista.com","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04687","Statistical Abstract of the United States","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07252","Statistical Abstracts of the World","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04604","Statistical Insight","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07361","Student Activism in the 20th Century","JStor","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05758","Substance Abuse and Mental Health Data Archive","ICPSR","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06866","Sunday Times Historical Archive, 1822-2016","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07377","Sunday Times Historical Archive, 1906-2019 (Johannesburg, South Africa)","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07373","SUR, 1931-1992","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07267","Swank Digital Campus","Swank Digital Campus","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04135","Synthesis Digital Library of Engineering and Computer Science","Morgan & Claypool","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03957","Taylor & Francis Online","Taylor & Francis","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04048","Teacher's Reference Center","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06252","Telecommunications Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06892","Terrorism Research & Analysis Consortium (TRAC)","Beacham Group, LLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07036","The Cold War: Global Perspectives on East-West Tensions, 1945-1991","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06914","The Independent Historical Archive, 1986-2016","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06918","The Listener Historical Archive, 1929-1991","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07331","The Mirror : Historical Archive, 1903-2000","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07332","The Telegraph Historical Archive, 1855-2016","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07105","The West Indies: slavery, plantations and trade, 1759-1832","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05020","Theatre du Grand Siecle","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05315","ThermoDex : An Index of Selected Thermodynamic and Physical Property Resources","University of Texas Libraries","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06218","Thesaurus Linguae Graecae","University of California","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06551","Thesaurus Linguae Latinae (TLL) Online","De Gruyter","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04699","Thieme E-Book Library","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07341","Thieme Teaching Assistant: Anatomy","Thieme","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03604","Times Digital Archive 1785-2013","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04702","Times Literary Supplement Historical Archive, 1902-2019","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06948","Times of India (1838 - 2019)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06949","Times of India (2006-present)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07062","Trade Catalogues and the American Home","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05752","TradeStats Express","Office of Trade and Industry Information (OTI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06990","Travel Writing, Spectacle and World History","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06942","TRIP Premium","Trip","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07289","Trismegistos","Trismegistos","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07169","Tropical Diseases Bulletin","CABI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07022","Turkey Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03747","Twentieth Century African American Poetry","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03748","Twentieth Century American Poetry","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03750","Twentieth Century English Poetry","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04466","U. S. Declassified Documents Online","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04045","U.K. Parliamentary Papers","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07353","U.S News & World Report Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04204","U.S. Attorney General & Department of Justice Collection","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06723","U.S. Congressional Documents","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07235","U.S. Congressional Serial Set","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06724","U.S. Federal Agency Documents, Decisions and Appeals","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04209","U.S. Federal Legislative History Library","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07202","U.S. National Library of Medicine Digital Collections","U.S. Dept. of Health & Human Services","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07234","U.S. Presidential Impeachment Library","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05983","U.S. Presidential Library","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05984","U.S. Statutes at Large (1789-present)","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04187","U.S. Supreme Court Library","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03308","U.S. Treaties and Agreements Library","William S. Hein & Co., Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07170","UCSC Genome Bioinformatics","Univ. of California, Genome Bioinformatics Gr","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07023","UK & Ireland Database","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05823","UK Statute Law Database","Office of Public Sector Information (OPSI), N","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05226","ULI Development Case Studies","Urban Land Institute","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03550","Ulrichsweb.com","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05471","UN ComTrade","United Nations","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07325","UN iLibrary","United Nations","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05230","UNData","United Nations","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05763","UNESCO Institute for Statistics","UNESCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07171","UniProt","EMBL-EBI","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04928","United Nations Official Document System","United Nations","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05955","United Nations Treaties Series","United Nations","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04706","United Nations Treaty Collection / Collection des traités des Nations Unis","United Nations","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06637","United States Code (1925-2006)","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06554","Universal Short Title Catalogue","Universal Short Title Catalog Project hosted","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06889","Uniworld Online","Uniworld Business Publications","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04877","UpToDate","UpToDate Inc.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05915","US Patent and Trademark Office Full-text and Image Database","U.S. Patent and Trademark Office (US","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04707","USA Trade Online","U.S. Census Bureau","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07268","USC Shoah Foundation Visual History Archive","USC Shoah Foundation","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07190","USP-NF, United States Pharmacopeia and National Formulary","U.S. Pharmacopeial Convention","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07354","Vanity Fair Magazine Archive","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06557","VD 16 / 17: Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16 & 17 Jahrhunderts","Karlsruher Institut fur Technologie (KIT)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07276","Verterbukh Online Dictionary (Online Yiddish Dictionary)","Verterbukh.org","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07151","Veterinary Clinical Parasitology Images","OSU College of Veterinary Medicine","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06360","Victorian Popular Culture","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06991","Virginia Company Archives","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07150","Virtual Health Library","BIREME","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07273","Virtually Vocal","VirtuallyVocal.com","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07346","Vogue Archive (1892-present)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04709","Voltaire Electronique","ARTFL","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05251","Voprosy Statistiki","East View","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06297","Wall Street Journal (1889-2003)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03504","Wall Street Journal (1984-current)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07221","Wall Street Journal Digital Edition","Wall Street Journal (WSJ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05023","Washington Information Directory","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06436","Washington Post (1877-2005)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03505","Washington Post (1996-current)","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07193","Water Research Foundation","The Foundation","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03259","Web of Science","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06862","WebCSD (Cambridge Structural Database)","Cambridge Crystallographic Data Centre","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05429","Wellesley Index to Victorian Periodicals, 1824-1900","Chadwyck-Healey","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07338","West Indies in records from colonial missionaries, 1710-1950","British Online Archives","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04713","WestlawNext Campus Research","Westlaw","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05809","Wiley Online Library","Wiley","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04658","Winmo","List Partners","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05937","Women and Social Movements US 1600-2000","Alexander Street","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06814","Women in American Politics","Congressional Quarterly (CQ)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06992","Women in The National Archives","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04717","Women Writers Online","Women Writers Project","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07326","Women, War and Society, 1914-1918","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07345","Women's Magazine Archives","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07117","Women's Studies Archive","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05974","World Bank DataBank","World Bank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05506","World Bank E-Library","World Bank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04721","World Biographical Information System","K. G. Saur","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06383","World Constitutions Illustrated","Hein Online (HeinOnline)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04722","World Development Indicators Online","World Bank & International Monetary Fund (IMF","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05176","World Health Organization (WHO)","World Health Organization (WHO)","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07277","World Heritage Sites: Africa","JStor","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07081","World News Digest","Infobase Learning","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05481","World Newspaper Archive","NewsBank","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06718","World Politics Review","EBSCO","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07297","World Protest and Reform Movements: Global Perspectives, 1945-1996","Readex","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06916","World Scholar: Latin America and the Caribbean","Gale","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU05924","World Shakespeare Bibliography Online","Oxford University Press","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07291","World Trade Online","Inside U.S. Trade","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06934","World Treaty Library","HeinOnline","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07007","World’s Fairs: a Global History of Expositions","Adam Matthew","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU02546","WorldCat (FirstSearch)","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03349","WorldCat Dissertations and Theses","OCLC","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06300","Worldwide Political Science Abstracts","Proquest","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU04724","Wright American Fiction, 1851-1875","Indiana University","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06904","Yomidas Rekishikan","Yomiuri Shinbunsha","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU07045","Zasshi Kiji Sakuin","Japan Publications Trading Co. Ltd.","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU03116","Zentralblatt Math","Springer","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
+"JHU06516","Zoological Record 1978-present","Thomson Scientific","Active",6/14/2022 14:54:06,6/14/2022 14:54:06
