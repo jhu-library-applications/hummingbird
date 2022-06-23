@@ -7,6 +7,7 @@ RSpec.describe 'Vendors', type: :request do
   let(:vendor) { FactoryBot.create(:vendor) }
 
   before do
+    user.save!
     sign_in user
   end
 

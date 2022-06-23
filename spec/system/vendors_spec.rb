@@ -9,6 +9,7 @@ RSpec.describe 'Vendor CRUD Operations', type: :system do
   before do
     driven_by(:selenium_chrome_headless)
     vendor.save!
+    user.save!
 
     visit root_path
 
