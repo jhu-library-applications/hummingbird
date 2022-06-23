@@ -46,7 +46,7 @@ RSpec.describe '/headings', type: :request do
     context 'with valid parameters' do
       it 'creates a new Heading' do
         expect do
-          post headings_url, params: { heading: { label: FFaker::Education.major } }
+          post headings_url, params: { heading: { label: FFaker::Company.name } }
         end.to change(Heading, :count).by(1)
       end
 

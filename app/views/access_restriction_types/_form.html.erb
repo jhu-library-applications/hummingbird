@@ -1,0 +1,7 @@
+<%= simple_form_for @access_restriction_type do |f| %>
+  <%= f.input :type_label, label: 'Type' %>
+  <%= f.input :note %>
+  <%= f.check_box :private, label: 'Private?' %>
+
+  <%= f.button :submit %>
+<% end %>

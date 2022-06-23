@@ -10,9 +10,31 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_06_06_140103) do
+ActiveRecord::Schema[7.0].define(version: 2022_06_10_171805) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "access_restriction_types", force: :cascade do |t|
+    t.string "type_label"
+    t.text "note"
+    t.boolean "private"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["type_label"], name: "index_access_restriction_types_on_type_label", unique: true
+  end
+
+  create_table "access_restrictions", force: :cascade do |t|
+    t.string "jhu_id"
+    t.bigint "access_restriction_type_id", null: false
+    t.bigint "database_id", null: false
+    t.text "note"
+    t.string "private_url"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["access_restriction_type_id"], name: "index_access_restrictions_on_access_restriction_type_id"
+    t.index ["database_id"], name: "index_access_restrictions_on_database_id"
+    t.index ["private_url"], name: "index_access_restrictions_on_private_url", unique: true
+  end
 
   create_table "database_headings", force: :cascade do |t|
     t.string "jhu_id"
@@ -25,7 +47,6 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_06_140103) do
     t.index ["heading_id", "subheading_id", "jhu_id", "database_id"], name: "multicolumn_db_heading_index", unique: true
     t.index ["heading_id", "subheading_id", "jhu_id"], name: "multicolumn_jhu_id_index", unique: true
     t.index ["heading_id"], name: "index_database_headings_on_heading_id"
-    t.index ["jhu_id"], name: "index_database_headings_on_jhu_id", unique: true
     t.index ["subheading_id"], name: "index_database_headings_on_subheading_id"
   end
 
@@ -79,6 +100,8 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_06_140103) do
     t.index ["brand_name"], name: "index_vendors_on_brand_name", unique: true
   end
 
+  add_foreign_key "access_restrictions", "access_restriction_types"
+  add_foreign_key "access_restrictions", "databases"
   add_foreign_key "database_headings", "databases"
   add_foreign_key "database_headings", "headings"
   add_foreign_key "database_headings", "subheadings"
