@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_06_10_171805) do
+ActiveRecord::Schema[7.0].define(version: 2022_06_06_154734) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -33,7 +33,6 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_10_171805) do
     t.datetime "updated_at", null: false
     t.index ["access_restriction_type_id"], name: "index_access_restrictions_on_access_restriction_type_id"
     t.index ["database_id"], name: "index_access_restrictions_on_database_id"
-    t.index ["private_url"], name: "index_access_restrictions_on_private_url", unique: true
   end
 
   create_table "database_headings", force: :cascade do |t|
