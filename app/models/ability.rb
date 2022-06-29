@@ -8,13 +8,16 @@ class Ability
     return if user.blank?
 
     can :read, Vendor
+    can :read, Database
 
     return if user.editor
 
     can %i[update create], Vendor
+    can %i[update create], Database
 
     return unless user.admin
 
     can %i[update create destroy], Vendor
+    can %i[update create destroy], Database
   end
 end

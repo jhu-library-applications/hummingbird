@@ -3,6 +3,7 @@
 # Controller for Databases
 class DatabasesController < ApplicationController
   before_action :set_database, only: %i[show edit update destroy]
+  before_action :new_database, only: :create
   before_action :require_login
 
   # GET /databases or /databases.json
@@ -16,15 +17,17 @@ class DatabasesController < ApplicationController
   # GET /databases/new
   def new
     @database = Database.new
+    authorize! :create, @database
   end
 
   # GET /databases/1/edit
-  def edit; end
+  def edit
+    authorize! :update, @database
+  end
 
   # POST /databases or /databases.json
   def create
-    @database = Database.new(database_params)
-
+    authorize! :create, @database
     respond_to do |format|
       if @database.save
         format.html { redirect_to database_url(@database), notice: 'Database was successfully created.' }
@@ -38,6 +41,7 @@ class DatabasesController < ApplicationController
 
   # PATCH/PUT /databases/1 or /databases/1.json
   def update
+    authorize! :update, @database
     respond_to do |format|
       if @database.update(database_params)
         format.html { redirect_to database_url(@database), notice: 'Database was successfully updated.' }
@@ -51,6 +55,7 @@ class DatabasesController < ApplicationController
 
   # DELETE /databases/1 or /databases/1.json
   def destroy
+    authorize! :destroy, @database
     @database.destroy
 
     respond_to do |format|
@@ -64,6 +69,10 @@ class DatabasesController < ApplicationController
   # Use callbacks to share common setup or constraints between actions.
   def set_database
     @database = Database.find(params[:id])
+  end
+
+  def new_database
+    @database = Database.new(database_params)
   end
 
   # Only allow a list of trusted parameters through.
