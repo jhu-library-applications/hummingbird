@@ -1,74 +1,74 @@
-"ID","heading"
-220,"Aerospace"
-221,"African Studies - SAIS"
-222,"Africana - Homewood"
-223,"Anthropology"
-224,"Archaeology"
-225,"Art History"
-226,"Asian Studies"
-227,"Astronomy and Astrophysics"
-228,"Bioethics"
-229,"Biographies"
-230,"Biological Sciences"
-231,"Biomedical Sciences"
-232,"Biotechnology"
-233,"Book Reviews"
-234,"Business"
-235,"Career Research"
-236,"Chemistry and Chemical Engineering"
-237,"Classics"
-238,"Cognitive Science"
-239,"Communication and Journalism"
-240,"Computer Science and Security"
-241,"Counseling and Human Services"
-242,"Dictionaries"
-243,"Earth and Environmental Sciences"
-244,"Economics"
-245,"Education"
-246,"Education and Health Sciences"
-247,"Encyclopedias"
-248,"Energy and Environmental Policy"
-249,"Engineering"
-250,"English and American Literature"
-251,"European Studies"
-252,"Film and Media Studies"
-253,"Finance"
-254,"French Language and Literature"
-255,"General"
-256,"German Language and Literature"
-257,"History"
-258,"History of Science Technology and Medicine"
-259,"Humanities"
-260,"Information Technology and Security"
-261,"International Studies and Relations"
-262,"Italian Language and Literature"
-263,"Jewish Studies"
-264,"Latin American Studies"
-265,"Law"
-266,"Libraries and Book Trade"
-267,"Literature"
-268,"Mathematics and Statistics"
-269,"Medicine, Nursing, and Other Health Fields"
-270,"Medieval and Renaissance Studies"
-271,"Middle East Studies"
-272,"Military and Strategic Studies"
-273,"Museum Studies"
-274,"Music"
-275,"Near Eastern Studies"
-276,"Newspapers"
-277,"Philosophy"
-278,"Physics"
-279,"Political Science"
-280,"Portuguese and Lusophone Studies"
-281,"Psychology"
-282,"Public Health"
-283,"Public Policy"
-284,"Public Safety"
-285,"Religion"
-286,"Russian and Eurasian Studies"
-287,"Sociology"
-288,"Spanish Language and Literature"
-289,"Statistics"
-290,"Trade"
-291,"US Government"
-293,"Women Gender and Sexuality"
+ID|heading
+220|Aerospace
+221|African Studies - SAIS
+222|Africana - Homewood
+223|Anthropology
+224|Archaeology
+225|Art History
+226|Asian Studies
+227|Astronomy and Astrophysics
+228|Bioethics
+229|Biographies
+230|Biological Sciences
+231|Biomedical Sciences
+232|Biotechnology
+233|Book Reviews
+234|Business
+235|Career Research
+236|Chemistry and Chemical Engineering
+237|Classics
+238|Cognitive Science
+239|Communication and Journalism
+240|Computer Science and Security
+241|Counseling and Human Services
+242|Dictionaries
+243|Earth and Environmental Sciences
+244|Economics
+245|Education
+246|Education and Health Sciences
+247|Encyclopedias
+248|Energy and Environmental Policy
+249|Engineering
+250|English and American Literature
+251|European Studies
+252|Film and Media Studies
+253|Finance
+254|French Language and Literature
+255|General
+256|German Language and Literature
+257|History
+258|History of Science Technology and Medicine
+259|Humanities
+260|Information Technology and Security
+261|International Studies and Relations
+262|Italian Language and Literature
+263|Jewish Studies
+264|Latin American Studies
+265|Law
+266|Libraries and Book Trade
+267|Literature
+268|Mathematics and Statistics
+269|Medicine, Nursing, and Other Health Fields
+270|Medieval and Renaissance Studies
+271|Middle East Studies
+272|Military and Strategic Studies
+273|Museum Studies
+274|Music
+275|Near Eastern Studies
+276|Newspapers
+277|Philosophy
+278|Physics
+279|Political Science
+280|Portuguese and Lusophone Studies
+281|Psychology
+282|Public Health
+283|Public Policy
+284|Public Safety
+285|Religion
+286|Russian and Eurasian Studies
+287|Sociology
+288|Spanish Language and Literature
+289|Statistics
+290|Trade
+291|US Government
+293|Women Gender and Sexuality

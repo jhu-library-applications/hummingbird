@@ -1,138 +1,138 @@
-"ID","subheading"
-274,"Additional Databases"
-275,"Administrative Law"
-276,"Advertising and Marketing"
-277,"Animal Behavior"
-278,"Animals and Plants"
-279,"Arts and Humanities"
-280,"Background"
-281,"Background and Videos"
-282,"Board Reviews"
-283,"Bonds"
-284,"Book Reviews"
-285,"Books"
-286,"Books and EBooks"
-287,"British Literature E-Texts"
-288,"Business"
-289,"Business Articles and News"
-290,"Career Research"
-291,"Case Law"
-292,"Cases"
-293,"Chemical and Material Properties"
-294,"Chemical Information"
-295,"Class Materials"
-296,"Company"
-297,"Company Background"
-298,"Company Financials"
-299,"Company Research"
-300,"Computer and Internet Security"
-301,"Core Databases"
-302,"Counseling"
-303,"Country Information"
-304,"Crime"
-305,"Currencies"
-306,"Current News"
-307,"Data Archives"
-308,"Datasets and Statistics"
-309,"Demographic"
-310,"Demographics and Consumers"
-311,"Digital Primary Sources"
-312,"Directories"
-313,"Directories: Companies, Organizations, Nonprofits"
-314,"E-Books"
-315,"Economics"
-316,"Education"
-317,"E-Journal Collections"
-318,"Electronic Business"
-319,"Entrepreneurship and Small Business"
-320,"E-Texts"
-321,"Ethics, Law and Policy"
-322,"Ethics, Law, and Policy"
-323,"Executive Branch"
-324,"Film Scripts"
-325,"Funding"
-326,"General Literature E-Texts"
-327,"Government"
-328,"Handbooks"
-329,"Health"
-330,"Health, Medicine and Nursing"
-331,"Historical"
-332,"Historical Book Reviews"
-333,"Historical News"
-334,"Historical Newspapers and Periodicals"
-335,"Historical Periodicals and Primary Sources"
-336,"Historical Texts"
-337,"Images"
-338,"Images and Media"
-339,"Indexes and Abstracts"
-340,"Industries, Markets and Consumers"
-341,"Industry and Company Research"
-342,"Industry/Market Research"
-343,"International"
-344,"International Business"
-345,"Job and Internship Listings"
-346,"Judicial Branch"
-347,"Language Tools"
-348,"Law and Ethics"
-349,"Law and Policy"
-350,"Law Texts"
-351,"Legal"
-352,"Legislative Branch"
-353,"Library Catalogs"
-354,"Life Sciences and Education"
-355,"Material and Chemical Properties"
-356,"Material and Physical Properties"
-357,"Medicine and Science"
-358,"Methods"
-359,"Methods and Protocols"
-360,"Metrics"
-361,"Molecular Biology"
-362,"Multimedia"
-363,"National"
-364,"News"
-365,"News Sources"
-366,"Newspapers and Media"
-367,"Nonprofit"
-368,"North American Literature E-Texts"
-369,"Online Scores"
-370,"Other"
-371,"Patents"
-372,"Philosophy, Religion and Social Sciences"
-373,"Policy Papers and Research Reports"
-374,"Political and Social"
-375,"Primary Sources"
-376,"Public Opinion"
-377,"Real Estate"
-378,"Regional Publications"
-379,"Region-Specific News"
-380,"Research Methods"
-381,"Research Papers, Dissertations"
-382,"Science"
-383,"Science and Engineering"
-384,"Science and Medicine"
-385,"Science and Technology"
-386,"Securities"
-387,"Social Sciences"
-388,"Social Sciences and History"
-389,"Sound"
-390,"Standards"
-391,"State and Local"
-392,"Statistical and Industry Information"
-393,"Statistics"
-394,"Statistics and Data"
-395,"Statistics and Polls"
-396,"Statistics, Data, and Mapping"
-397,"Statutory Law"
-398,"Streaming Media"
-399,"Technical and Government Reports"
-400,"Technical/Government Reports"
-401,"Technology"
-402,"Testing and Measures"
-403,"Tests and Measures"
-404,"Texts"
-405,"Texts and Images"
-406,"Tools"
-407,"United States"
-408,"Video and Images for Teaching"
-409,"Videos"
-410,"Working Papers"
+ID|subheading
+274|Additional Databases
+275|Administrative Law
+276|Advertising and Marketing
+277|Animal Behavior
+278|Animals and Plants
+279|Arts and Humanities
+280|Background
+281|Background and Videos
+282|Board Reviews
+283|Bonds
+284|Book Reviews
+285|Books
+286|Books and EBooks
+287|British Literature E-Texts
+288|Business
+289|Business Articles and News
+290|Career Research
+291|Case Law
+292|Cases
+293|Chemical and Material Properties
+294|Chemical Information
+295|Class Materials
+296|Company
+297|Company Background
+298|Company Financials
+299|Company Research
+300|Computer and Internet Security
+301|Core Databases
+302|Counseling
+303|Country Information
+304|Crime
+305|Currencies
+306|Current News
+307|Data Archives
+308|Datasets and Statistics
+309|Demographic
+310|Demographics and Consumers
+311|Digital Primary Sources
+312|Directories
+313|Directories: Companies, Organizations, Nonprofits
+314|E-Books
+315|Economics
+316|Education
+317|E-Journal Collections
+318|Electronic Business
+319|Entrepreneurship and Small Business
+320|E-Texts
+321|Ethics, Law and Policy
+322|Ethics, Law, and Policy
+323|Executive Branch
+324|Film Scripts
+325|Funding
+326|General Literature E-Texts
+327|Government
+328|Handbooks
+329|Health
+330|Health, Medicine and Nursing
+331|Historical
+332|Historical Book Reviews
+333|Historical News
+334|Historical Newspapers and Periodicals
+335|Historical Periodicals and Primary Sources
+336|Historical Texts
+337|Images
+338|Images and Media
+339|Indexes and Abstracts
+340|Industries, Markets and Consumers
+341|Industry and Company Research
+342|Industry/Market Research
+343|International
+344|International Business
+345|Job and Internship Listings
+346|Judicial Branch
+347|Language Tools
+348|Law and Ethics
+349|Law and Policy
+350|Law Texts
+351|Legal
+352|Legislative Branch
+353|Library Catalogs
+354|Life Sciences and Education
+355|Material and Chemical Properties
+356|Material and Physical Properties
+357|Medicine and Science
+358|Methods
+359|Methods and Protocols
+360|Metrics
+361|Molecular Biology
+362|Multimedia
+363|National
+364|News
+365|News Sources
+366|Newspapers and Media
+367|Nonprofit
+368|North American Literature E-Texts
+369|Online Scores
+370|Other
+371|Patents
+372|Philosophy, Religion and Social Sciences
+373|Policy Papers and Research Reports
+374|Political and Social
+375|Primary Sources
+376|Public Opinion
+377|Real Estate
+378|Regional Publications
+379|Region-Specific News
+380|Research Methods
+381|Research Papers, Dissertations
+382|Science
+383|Science and Engineering
+384|Science and Medicine
+385|Science and Technology
+386|Securities
+387|Social Sciences
+388|Social Sciences and History
+389|Sound
+390|Standards
+391|State and Local
+392|Statistical and Industry Information
+393|Statistics
+394|Statistics and Data
+395|Statistics and Polls
+396|Statistics, Data, and Mapping
+397|Statutory Law
+398|Streaming Media
+399|Technical and Government Reports
+400|Technical/Government Reports
+401|Technology
+402|Testing and Measures
+403|Tests and Measures
+404|Texts
+405|Texts and Images
+406|Tools
+407|United States
+408|Video and Images for Teaching
+409|Videos
+410|Working Papers
