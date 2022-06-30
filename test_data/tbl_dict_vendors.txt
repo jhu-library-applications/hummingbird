@@ -1,408 +1,406 @@
-"ID","vendor"
-501,"AAMC"
-502,"ABC-CLIO"
-503,"Access.gpo"
-504,"Accessible Archives"
-505,"Adam Matthew"
-507,"Afro-American Newspapers Archives and Researc"
-508,"Agency for Healthcare Research and Quality (A"
-509,"AHA/Health Forum"
-510,"AIAA"
-511,"Alexander Street"
-512,"American Anthropological Association"
-513,"American Association for the Advancement of S"
-514,"American Association of Petroleum Geologists"
-515,"American Ceramics Society (ACS)"
-516,"American Chemical Society (ACM)"
-517,"American Council of Learned Societies (ACLS)"
-518,"American Economic Association (AEA)"
-519,"American Hospital Association (AHA)"
-520,"American Hospital Directory AHD"
-521,"American Institute of Physics (AIP)"
-522,"American Jewish Committee"
-523,"American Mathematical Society (AMS)"
-524,"American Medical Association (AMA)"
-525,"American Meteorological Society (AMS)"
-526,"American National Election Studies (ANES)"
-527,"American Psychiatric Publishing"
-528,"American Psychological Association (APA)"
-529,"American Society for Microbiology (ASM)"
-530,"American Statistical Association (ASA) & Inst"
-531,"Andrew W. Mellon Foundation"
-532,"Annual Reviews & Atypon"
-533,"ArcGIS"
-534,"ARTFL"
-535,"Asempa Limited"
-536,"Asian Development Bank (ADB)"
-537,"ASM"
-538,"ASM International"
-539,"Association for Asian Studies"
-540,"Association for Computing Machinery (ACM)"
-541,"Association for Professionals in Infection Co"
-542,"Association of Religion Data Archive (ARDA)"
-543,"ASTM International Standards Worldwide"
-544,"Aviation Week"
-545,"BabelScores"
-546,"Bar Ilan University"
-547,"Bates"
-548,"BCC Research LLC"
-549,"Beacham Group, LLC"
-550,"Begel House"
-551,"Beijing Erudition Digital Technology Research"
-552,"Berliner Philharmoniker"
-553,"BibCnrs"
-554,"Bibliographie der deutschen Sprach- und Liter"
-555,"BioMed Central"
-556,"BioOne"
-557,"BIREME"
-558,"Bizminer"
-561,"Bloomberg"
-562,"Bloomsbury Publishing, Inc."
-563,"Bodleian Libraries, University of Oxford"
-564,"Brepols Publishers"
-565,"Brigham Young University (BYU)"
-566,"Brill"
-567,"British Online Archives"
-568,"Bureau of Labor Statistics"
-569,"Cabell's"
-570,"CABI"
-572,"CAIRN"
-573,"Cambridge Crystallographic Data Centre"
-574,"Cambridge University Press"
-575,"CambridgeSoft ; Merck & Co."
-576,"Canal Numerique des Savoirs"
-577,"Cardiff University"
-578,"Casalini Libri"
-579,"Center for Disease Control and Prevention (CDC)"
-580,"Center for Research Libraries (CRL)"
-581,"Center for the History of Psychology at the U"
-582,"Centre for Digital Philosophy"
-583,"Centre for Evidence-Based Physiotherapy"
-584,"CEPR"
-585,"CET - The Center for Educational Technology"
-586,"Chadwyck-Healey"
-587,"Chinamaxx"
-588,"Chinese University of Hong Kong Press"
-589,"CitiStat"
-590,"Clarivate"
-591,"Classiques Garnier Numerique"
-592,"CNKI"
-593,"CNRS, INIST"
-594,"Cold Spring Harbor Laboratory Press."
-595,"Columbia University"
-596,"Commonwealth Business Media"
-597,"Congressional Quarterly (CQ)"
-598,"Consortium of European Research Libraries"
-599,"Cornell Lab of Ornithology"
-600,"Cornell School of Veterinary Medicine"
-601,"Cornell University Library"
-602,"Corpus Christi College, Stanford University L"
-603,"Council for Library and Information Resources"
-604,"Covidence"
-605,"CQ"
-606,"CQ Press"
-607,"Crain Communications"
-608,"Cyber Security Intelligence"
-609,"Dacheng Data"
-610,"Datanet India"
-611,"De Gruyter"
-612,"Defense Technical Information Center (DTIC)"
-613,"Diction Police"
-614,"Digizeitschriften"
-615,"Diplomat"
-616,"Dizhi Publishing Company"
-617,"Docuseek"
-618,"DRAM & Anthology of Recorded Music, Inc."
-619,"Duke University Libraries Digital Collections"
-620,"Dustbooks"
-621,"Duxiu"
-622,"East View Geospatial"
-623,"East View Information Services"
-624,"East View Press / Center for Research Librari"
-625,"East View"
-626,"EastView Global Press Archive"
-627,"EBSCO"
-628,"Economist"
-629,"Economist Intelligence Unit (EIU)"
-630,"Editorial Projects in Education (EPE) :: Educ"
-631,"Elsevier"
-632,"EMBL-EBI"
-633,"Emerald"
-634,"encyclopedia Britannica, Inc."
-635,"Encyclopaedia Iranica Foundation"
-636,"Engineering Village"
-637,"EPS China Data"
-638,"Euromonitor International"
-639,"European Patent Office (EPO)"
-640,"Experian Marketing Solutions"
-641,"Faculty Opinions"
-642,"Federal Reserve Bank of St. Louis"
-643,"Fedlaw"
-644,"Financial Times"
-645,"FirstHand"
-646,"Fitch Ratings / Business Monitor Internationa"
-647,"FIZ Karlsruhe"
-648,"Foreign affairs (New York, N.Y.)"
-649,"Foswiki"
-650,"Foundation Center"
-651,"Gale"
-652,"Gale Group"
-653,"Gale Group / InfoTrac"
-654,"Gartner"
-655,"General Internal Medicine at The Johns Hopkin"
-656,"GeoScienceWorld"
-657,"Getty Conservation Institute"
-658,"Global Financial Data"
-659,"Global Press Alliance / Eastview"
-660,"Google"
-661,"Google & US Patent and Trademark Office (USPT"
-662,"Griffith Institute, Faculty of Oriental Studi"
-663,"Harald Fischer Verlag"
-664,"Harold B. Lee Library, Brigham Young Universi"
-665,"HarpWeek"
-666,"Harvard-Smithsonian Center for Astrophysics"
-667,"HathiTrust"
-668,"Hein"
-669,"Hein Online (HeinOnline)"
-670,"HeinOnline"
-671,"Henry Stewart Talks, Ltd."
-672,"Herzogin Anna Amalia Bibliothek / Klassik Sti"
-673,"HighWire Press"
-674,"Historical Information Gatherers"
-675,"HistoryMakers"
-676,"Hoover's Inc."
-677,"IBM"
-678,"ICPSR"
-679,"ICPSR & Robert Wood Johnson Foundation"
-680,"IEEE"
-681,"IHS Markit"
-682,"Impelsys Inc."
-683,"Indiana University"
-684,"Indiana University. Film & Television Documen"
-685,"InfoBase"
-686,"Infobase Learning"
-687,"InfoBase Publishers"
-688,"Informa"
-689,"INFORMS"
-690,"Ingenta"
-691,"Inside U.S. Trade"
-692,"Institute of Physics (IOP)"
-693,"Institution of Engineering and Technology (IE"
-694,"IntelCenter"
-695,"Intelex"
-696,"International Council for Harmonisation of Te"
-697,"International Monetary Fund (IMF)"
-698,"International Nucleotide Sequence Database Co"
-699,"International Society for Optical Engineering"
-700,"IPA Source"
-701,"Iter Italicum"
-702,"J. Paul Getty Trust"
-703,"Jackson Laboratory"
-704,"Janes"
-705,"Japan Knowledge"
-706,"Japan Publications Trading Co. Ltd."
-707,"Japanese Patent Office"
-708,"Jewish National and University Library"
-709,"JHU"
-710,"Johns Hopkins University Libraries"
-711,"Johns Hopkins University Press"
-712,"Johns Hopkins University Special Collections"
-713,"JOMI"
-714,"JScholarship"
-715,"JStor"
-716,"K. G. Saur"
-717,"Kaiser Family Foundation"
-718,"Kanopy Streaming Service"
-719,"Karlsruher Institut fur Technologie (KIT)"
-720,"Kyoto University Bioinformatics Center"
-721,"Laboratorio per la bibliografia retrospettiva"
-722,"Latin American Intelligence Research"
-723,"Latin American News Digest"
-724,"League for Yiddish"
-725,"Lexis/Nexis"
-726,"Library of Congress"
-727,"List Partners"
-728,"Maison ONA"
-729,"Marketresearch"
-730,"Maryland. Department of Planning."
-731,"Massachusetts Medical Society"
-732,"MatWeb, LLC"
-734,"McGraw-Hill"
-735,"Measure DHS, Macro International"
-736,"Medici.tv"
-737,"Merck & Co., Inc."
-738,"Mergent"
-739,"Mergent, Inc."
-740,"Metapress"
-741,"MetaPress & Springer Link"
-742,"Metropolitan Opera"
-743,"Microform Academic Publishers"
-744,"Mintel"
-745,"MIT Press"
-746,"Morgan & Claypool"
-747,"Morningstar"
-748,"Munzinger"
-749,"NA Publishing"
-750,"NARIC"
-751,"National Agricultural Library (NAL)"
-752,"National Archives UK"
-753,"National Bureau of Asian Research / NBR"
-754,"National Bureau of Economic Research (NBER)"
-755,"National Cancer Institute (NCI), U.S. Nationa"
-756,"National Center for Biotechnology Information"
-757,"National Center for Health Statistics (NCHS),"
-758,"National Comprehensive Cancer Network"
-759,"National Institute of Standards and Technolog"
-760,"National Library of Medicine (NLM)"
-761,"NationMaster.com"
-762,"Natural Standard"
-763,"Naval Postgraduate School, Center for Homelan"
-764,"Naxos"
-765,"NCBI"
-766,"NetAdvance"
-767,"New York Review"
-768,"New York Times"
-769,"Newbank & Readex"
-770,"NewsBank"
-771,"NewspaperDirect Inc."
-772,"Nichigai Web Service"
-773,"NIH"
-774,"NK Consulting Inc."
-775,"NLM"
-776,"Nuri Media Co."
-777,"O'Reilly Media"
-778,"OCLC"
-780,"Office of Public Sector Information (OPSI), N"
-781,"Office of Scientific and Technical Informatio"
-782,"Office of Trade and Industry Information (OTI"
-783,"Oldenbourg Verlagsgruppe"
-784,"Open Book Publishers"
-785,"Open Library of Humanities (OLH)"
-786,"OpenEdition Freemium for Journals"
-787,"Opinion Archives or OpinionArchives.com"
-788,"Optical Society of America (OSA)"
-789,"Organisation for Economic Cooperation and Dev"
-790,"Oriprobe"
-791,"OSU College of Veterinary Medicine"
-792,"Otzar HaHochma"
-793,"Ovid"
-794,"Ovid Technologies"
-795,"OvidSP or Ovid SP"
-796,"OvidSP or Ovid SP Technologies"
-797,"Oxford"
-798,"Oxford University Press"
-799,"Packard Humanities Institute (PHI)"
-800,"Palgrave Macmillan"
-801,"Pandy Lab & Institute of BioInformatics"
-802,"Paratext"
-803,"Past Masters"
-804,"Pennsylvania State University & CiteSeer"
-805,"Pew Research Center"
-806,"Phoenix Bioinformatics"
-807,"Politico / E&E Publishing"
-808,"Portico"
-809,"Primary Source Media"
-810,"PrivCo"
-811,"Projekt Dyabola"
-812,"Proquest"
-817,"PRS Group"
-818,"Psychoanalytic Electronic Publishing"
-819,"Quan Guo Bao Kan Suo Yin (CNBKSY) and Shangha"
-820,"Qwest TV"
-821,"Readex"
-823,"Reference Group Inc."
-824,"Refinitiv"
-825,"RePEc service, Federal Reserve Bank of St. Lo"
-826,"Repertoire International des Sources Musicale"
-827,"Research Libraries Group (RLG) / Ebsco"
-828,"Reveal Digital"
-829,"Rhizome"
-830,"Richard P. Usatine and Brian D. Madden"
-831,"Roper Center, Cornell University"
-832,"Routledge"
-833,"Royal Society of Chemistry (RSC) Publishing"
-834,"Rutgers"
-835,"Sage"
-838,"Salerno Editrice"
-839,"Scarecrow Press"
-840,"Shenzhen CSMAR Data Technology"
-841,"SimplyMap or Simply Map"
-842,"Social Explorer"
-843,"Social Science Electronic Publishing"
-844,"SpotlightNews"
-845,"Springer"
-846,"Springer Nature"
-847,"SRI International"
-848,"Staatsbibliotek zu Berlin"
-849,"Standard & Poors / McGraw Hill Financial"
-850,"Stanford Linear Accelerator Center (SLAC)"
-851,"Stanford University"
-852,"STAT"
-853,"Stat!Ref"
-854,"Statista.com"
-855,"Swank Digital Campus"
-856,"Taylor & Francis"
-857,"Teton Data Systems"
-858,"The Chronicle of Higher Education"
-859,"The Foundation"
-860,"The Reinvestment Fund (TRF)"
-861,"Thieme"
-862,"Thomson MicroMedex"
-863,"Thomson Reuters"
-864,"Thomson Scientific"
-865,"Trip"
-866,"Trismegistos"
-867,"U.S. Census Bureau"
-868,"U.S. Department of Commerce. Bureau of Economic"
-869,"U.S. Department of Defense (DOD)"
-870,"U.S. Department of Energy (DOE) Offi"
-871,"U.S. Department of Health and Human Services"
-872,"U.S. Department of Justice , Office of Justic"
-873,"U.S. Department of Justice, Bureau of Justice S"
-874,"U.S. Department of Labor"
-875,"U.S. Department of Labor, Bureau of Labor Stati"
-876,"U.S. Dept. of Education, Institute for Educat"
-877,"U.S. Dept. of Health & Human Services"
-878,"U.S. Federal Bureau of Investigations (FBI)"
-879,"U.S. Federal Government Agencies"
-880,"U.S. Government Printing Office"
-881,"U.S. National Atmospheric and Scientific Admi"
-882,"U.S. National Library of Medicine (N"
-883,"U.S. Patent and Trademark Office (US"
-884,"U.S. Pharmacopeial Convention"
-885,"UNESCO"
-886,"United Nations"
-887,"Univ. of California, Genome Bioinformatics Gr"
-888,"Universal Short Title Catalog Project hosted"
-889,"University of California"
-890,"University of Kansas Libraries & Rosarkhiv of"
-891,"University of Minnesota, Minnesota Population"
-892,"University of North Dakota"
-893,"University of Pittsburgh"
-894,"University of Texas Libraries"
-895,"University of Virginia Press / Rotunda"
-896,"Uniworld Business Publications"
-897,"UpToDate Inc."
-898,"Urban Land Institute"
-899,"USC Shoah Foundation"
-900,"USDA National Agriculture Library"
-901,"Vermont Safety Information Resources, Inc. (S"
-902,"Verterbukh.org"
-903,"Virtual Health Library"
-904,"VirtuallyVocal.com"
-905,"Vittorio Klostermann"
-906,"Wall Street Journal (WSJ)"
-907,"Wanfang Data"
-908,"Wellcome Trust, Sanger Institute, EBI"
-909,"Westlaw"
-910,"WGBH"
-911,"WHO"
-912,"Wiley"
-913,"William S. Hein & Co., Inc."
-914,"Wolters Kluwer"
-915,"Women Writers Project"
-916,"World Bank"
-917,"World Bank & International Monetary Fund (IMF"
-918,"World Health Organization (WHO)"
-919,"Yale University Press"
-920,"Yomiuri Shinbunsha"
+ID|vendor
+501|AAMC
+502|ABC-CLIO
+503|Access.gpo
+504|Accessible Archives
+505|Adam Matthew
+507|Afro-American Newspapers Archives and Researc
+508|Agency for Healthcare Research and Quality (A
+509|AHA/Health Forum
+510|AIAA
+511|Alexander Street
+512|American Anthropological Association
+513|American Association for the Advancement of S
+514|American Association of Petroleum Geologists
+515|American Ceramics Society (ACS)
+516|American Chemical Society (ACM)
+517|American Council of Learned Societies (ACLS)
+518|American Economic Association (AEA)
+519|American Hospital Association (AHA)
+520|American Hospital Directory AHD
+521|American Institute of Physics (AIP)
+522|American Jewish Committee
+523|American Mathematical Society (AMS)
+524|American Medical Association (AMA)
+525|American Meteorological Society (AMS)
+526|American National Election Studies (ANES)
+527|American Psychiatric Publishing
+528|American Psychological Association (APA)
+529|American Society for Microbiology (ASM)
+530|American Statistical Association (ASA) & Inst
+531|Andrew W. Mellon Foundation
+532|Annual Reviews & Atypon
+533|ArcGIS
+534|ARTFL
+535|Asempa Limited
+536|Asian Development Bank (ADB)
+537|ASM
+538|ASM International
+539|Association for Asian Studies
+540|Association for Computing Machinery (ACM)
+541|Association for Professionals in Infection Co
+542|Association of Religion Data Archive (ARDA)
+543|ASTM International Standards Worldwide
+544|Aviation Week
+545|BabelScores
+546|Bar Ilan University
+547|Bates
+548|BCC Research LLC
+549|Beacham Group, LLC
+550|Begel House
+551|Beijing Erudition Digital Technology Research
+552|Berliner Philharmoniker
+553|BibCnrs
+554|Bibliographie der deutschen Sprach- und Liter
+555|BioMed Central
+556|BioOne
+557|BIREME
+558|Bizminer
+561|Bloomberg
+562|Bloomsbury Publishing, Inc.
+563|Bodleian Libraries, University of Oxford
+564|Brepols Publishers
+565|Brigham Young University (BYU)
+566|Brill
+567|British Online Archives
+568|Bureau of Labor Statistics
+569|Cabell's
+570|CABI
+572|CAIRN
+573|Cambridge Crystallographic Data Centre
+574|Cambridge University Press
+575|Royal Society of Chemistry
+576|Canal Numerique des Savoirs
+577|Cardiff University
+578|Casalini Libri
+579|Center for Disease Control and Prevention (CDC)
+580|Center for Research Libraries (CRL)
+581|Center for the History of Psychology at the U
+582|Centre for Digital Philosophy
+583|Centre for Evidence-Based Physiotherapy
+584|CEPR
+585|CET – The Center for Educational Technology
+586|Chadwyck-Healey
+587|Chinamaxx
+588|Chinese University of Hong Kong Press
+589|CitiStat
+590|Clarivate
+591|Classiques Garnier Numerique
+592|CNKI
+593|CNRS, INIST
+594|Cold Spring Harbor Laboratory Press.
+595|Columbia University
+596|Commonwealth Business Media
+597|Congressional Quarterly (CQ)
+598|Consortium of European Research Libraries
+599|Cornell Lab of Ornithology
+600|Cornell School of Veterinary Medicine
+601|Cornell University Library
+602|Corpus Christi College, Stanford University L
+603|Council for Library and Information Resources
+604|Covidence
+605|CQ
+606|CQ Press
+607|Crain Communications
+608|Cyber Security Intelligence
+609|Dacheng Data
+610|Datanet India
+611|De Gruyter
+612|Defense Technical Information Center (DTIC)
+613|Diction Police
+614|Digizeitschriften
+615|Diplomat
+616|Dizhi Publishing Company
+617|Docuseek
+618|DRAM & Anthology of Recorded Music, Inc.
+619|Duke University Libraries Digital Collections
+620|Dustbooks
+621|Duxiu
+622|East View Geospatial
+623|East View Information Services
+624|East View Press / Center for Research Librari
+625|East View
+626|EastView Global Press Archive
+627|EBSCO
+628|Economist
+629|Economist Intelligence Unit (EIU)
+630|Editorial Projects in Education (EPE) :: Educ
+631|Elsevier
+632|EMBL-EBI
+633|Emerald
+634|Encyclopædia Britannica, Inc.
+635|Encyclopaedia Iranica Foundation
+636|Engineering Village
+637|EPS China Data
+638|Euromonitor International
+639|European Patent Office (EPO)
+640|Experian Marketing Solutions
+641|Faculty Opinions
+642|Federal Reserve Bank of St. Louis
+643|Fedlaw
+644|Financial Times
+645|FirstHand
+646|Fitch Ratings / Business Monitor Internationa
+647|FIZ Karlsruhe
+648|Foreign affairs (New York, N.Y.)
+649|Foswiki
+650|Foundation Center
+651|Gale
+652|Gale Group
+653|Gale Group / InfoTrac
+654|Gartner
+655|General Internal Medicine at The Johns Hopkin
+656|GeoScienceWorld
+657|Getty Conservation Institute
+658|Global Financial Data
+659|Global Press Alliance / Eastview
+660|Google
+661|Google & US Patent and Trademark Office (USPT
+662|Griffith Institute, Faculty of Oriental Studi
+663|Harald Fischer Verlag
+664|Harold B. Lee Library, Brigham Young Universi
+665|HarpWeek
+666|Harvard-Smithsonian Center for Astrophysics
+667|HathiTrust
+668|Hein
+669|Hein Online (HeinOnline)
+670|HeinOnline
+671|Henry Stewart Talks, Ltd.
+672|Herzogin Anna Amalia Bibliothek / Klassik Sti
+673|HighWire Press
+674|Historical Information Gatherers
+675|HistoryMakers
+676|Hoover's Inc.
+677|IBM
+678|ICPSR
+679|ICPSR & Robert Wood Johnson Foundation
+680|IEEE
+681|IHS Markit
+682|Impelsys Inc.
+683|Indiana University
+684|Indiana University. Film & Television Documen
+685|InfoBase
+688|Informa
+689|INFORMS
+690|Ingenta
+691|Inside U.S. Trade
+692|Institute of Physics (IOP)
+693|Institution of Engineering and Technology (IE
+694|IntelCenter
+695|Intelex
+696|International Council for Harmonisation of Te
+697|International Monetary Fund (IMF)
+698|International Nucleotide Sequence Database Co
+699|International Society for Optical Engineering
+700|IPA Source
+701|Iter Italicum
+702|J. Paul Getty Trust
+703|Jackson Laboratory
+704|Janes
+705|Japan Knowledge
+706|Japan Publications Trading Co. Ltd.
+707|Japanese Patent Office
+708|Jewish National and University Library
+709|JHU
+710|Johns Hopkins University Libraries
+711|Johns Hopkins University Press
+712|Johns Hopkins University Special Collections
+713|JOMI
+714|JScholarship
+715|JStor
+716|K. G. Saur
+717|Kaiser Family Foundation
+718|Kanopy Streaming Service
+719|Karlsruher Institut fur Technologie (KIT)
+720|Kyoto University Bioinformatics Center
+721|Laboratorio per la bibliografia retrospettiva
+722|Latin American Intelligence Research
+723|Latin American News Digest
+724|League for Yiddish
+725|Lexis/Nexis
+726|Library of Congress
+727|List Partners
+728|Maison ONA
+729|Marketresearch
+730|Maryland. Department of Planning.
+731|Massachusetts Medical Society
+732|MatWeb, LLC
+733|McGraw Hill
+735|Measure DHS, Macro International
+736|Medici.tv
+737|Merck & Co., Inc.
+738|Mergent
+739|Mergent, Inc.
+740|Metapress
+741|MetaPress & Springer Link
+742|Metropolitan Opera
+743|Microform Academic Publishers
+744|Mintel
+745|MIT Press
+746|Morgan & Claypool
+747|Morningstar
+748|Munzinger
+749|NA Publishing
+750|NARIC
+751|National Agricultural Library (NAL)
+752|National Archives UK
+753|National Bureau of Asian Research / NBR
+754|National Bureau of Economic Research (NBER)
+755|National Cancer Institute (NCI), U.S. Nationa
+756|National Center for Biotechnology Information
+757|National Center for Health Statistics (NCHS),
+758|National Comprehensive Cancer Network
+759|National Institute of Standards and Technolog
+760|National Library of Medicine (NLM)
+761|NationMaster.com
+762|Natural Standard
+763|Naval Postgraduate School, Center for Homelan
+764|Naxos
+765|NCBI
+766|NetAdvance
+767|New York Review
+768|New York Times
+769|Newbank & Readex
+770|NewsBank
+771|NewspaperDirect Inc.
+772|Nichigai Web Service
+773|NIH
+774|NK Consulting Inc.
+775|NLM
+776|Nuri Media Co.
+777|O’Reilly Media
+778|OCLC
+780|Office of Public Sector Information (OPSI), N
+781|Office of Scientific and Technical Informatio
+782|Office of Trade and Industry Information (OTI
+783|Oldenbourg Verlagsgruppe
+784|Open Book Publishers
+785|Open Library of Humanities (OLH)
+786|OpenEdition Freemium for Journals
+787|Opinion Archives or OpinionArchives.com
+788|Optical Society of America (OSA)
+789|Organisation for Economic Cooperation and Dev
+790|Oriprobe
+791|OSU College of Veterinary Medicine
+792|Otzar HaHochma
+793|Ovid
+794|Ovid Technologies
+795|OvidSP or Ovid SP
+796|OvidSP or Ovid SP Technologies
+797|Oxford
+798|Oxford University Press
+799|Packard Humanities Institute (PHI)
+800|Palgrave Macmillan
+801|Pandy Lab & Institute of BioInformatics
+802|Paratext
+803|Past Masters
+804|Pennsylvania State University & CiteSeer
+805|Pew Research Center
+806|Phoenix Bioinformatics
+807|Politico / E&E Publishing
+808|Portico
+809|Primary Source Media
+810|PrivCo
+811|Projekt Dyabola
+812|Proquest
+817|PRS Group
+818|Psychoanalytic Electronic Publishing
+819|Quan Guo Bao Kan Suo Yin (CNBKSY) and Shangha
+820|Qwest TV
+821|Readex
+823|Reference Group Inc.
+824|Refinitiv
+825|RePEc service, Federal Reserve Bank of St. Lo
+826|Repertoire International des Sources Musicale
+827|Research Libraries Group (RLG) / Ebsco
+828|Reveal Digital
+829|Rhizome
+830|Richard P. Usatine and Brian D. Madden
+831|Roper Center, Cornell University
+832|Routledge
+833|Royal Society of Chemistry (RSC) Publishing
+834|Rutgers
+835|Sage
+838|Salerno Editrice
+839|Scarecrow Press
+840|Shenzhen CSMAR Data Technology
+841|SimplyMap or Simply Map
+842|Social Explorer
+843|Social Science Electronic Publishing
+844|SpotlightNews
+845|Springer
+846|Springer Nature
+847|SRI International
+848|Staatsbibliotek zu Berlin
+849|Standard & Poors / McGraw Hill Financial
+850|Stanford Linear Accelerator Center (SLAC)
+851|Stanford University
+852|STAT
+853|Stat!Ref
+854|Statista.com
+855|Swank Digital Campus
+856|Taylor & Francis
+857|Teton Data Systems
+858|The Chronicle of Higher Education
+859|The Foundation
+860|The Reinvestment Fund (TRF)
+861|Thieme
+862|Thomson MicroMedex
+863|Thomson Reuters
+864|Thomson Scientific
+865|Trip
+866|Trismegistos
+867|U.S. Census Bureau
+868|U.S. Department of Commerce. Bureau of Economic
+869|U.S. Department of Defense (DOD)
+870|U.S. Department of Energy (DOE) Offi
+871|U.S. Department of Health and Human Services
+872|U.S. Department of Justice , Office of Justic
+873|U.S. Department of Justice, Bureau of Justice S
+874|U.S. Department of Labor
+875|U.S. Department of Labor, Bureau of Labor Stati
+876|U.S. Dept. of Education, Institute for Educat
+877|U.S. Dept. of Health & Human Services
+878|U.S. Federal Bureau of Investigations (FBI)
+879|U.S. Federal Government Agencies
+880|U.S. Government Printing Office
+881|U.S. National Atmospheric and Scientific Admi
+882|U.S. National Library of Medicine (N
+883|U.S. Patent and Trademark Office (US
+884|U.S. Pharmacopeial Convention
+885|UNESCO
+886|United Nations
+887|Univ. of California, Genome Bioinformatics Gr
+888|Universal Short Title Catalog Project hosted
+889|University of California
+890|University of Kansas Libraries & Rosarkhiv of
+891|University of Minnesota, Minnesota Population
+892|University of North Dakota
+893|University of Pittsburgh
+894|University of Texas Libraries
+895|University of Virginia Press / Rotunda
+896|Uniworld Business Publications
+897|UpToDate Inc.
+898|Urban Land Institute
+899|USC Shoah Foundation
+900|USDA National Agriculture Library
+901|Vermont Safety Information Resources, Inc. (S
+902|Verterbukh.org
+903|Virtual Health Library
+904|VirtuallyVocal.com
+905|Vittorio Klostermann
+906|Wall Street Journal (WSJ)
+907|Wanfang Data
+908|Wellcome Trust, Sanger Institute, EBI
+909|Westlaw
+910|WGBH
+911|WHO
+912|Wiley
+913|William S. Hein & Co., Inc.
+914|Wolters Kluwer
+915|Women Writers Project
+916|World Bank
+917|World Bank & International Monetary Fund (IMF
+918|World Health Organization (WHO)
+919|Yale University Press
+920|Yomiuri Shinbunsha
