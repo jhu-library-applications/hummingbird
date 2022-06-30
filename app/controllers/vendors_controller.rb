@@ -8,7 +8,19 @@ class VendorsController < ApplicationController
 
   # GET /vendors or /vendors.json
   def index
-    @vendors = Vendor.all
+    default_sort = :asc
+    if params[:search] && params[:sort].nil?
+      @vendors ||= Vendor.where('brand_name ILIKE ?',
+                                "%#{params[:search]}%").order('brand_name ASC').page(params[:page])
+    elsif params[:search] && params[:sort] == 'asc'
+      @vendors ||= Vendor.where('brand_name ILIKE ?',
+                                "%#{params[:search]}%").order('brand_name ASC').page(params[:page])
+    elsif params[:search] && params[:sort] == 'desc'
+      @vendors ||= Vendor.where('brand_name ILIKE ?',
+                                "%#{params[:search]}%").order('brand_name DESC').page(params[:page])
+    else
+      @vendors = Vendor.all.order(brand_name: params[:sort] || default_sort).page(params[:page])
+    end
   end
 
   # GET /vendors/1 or /vendors/1.json
