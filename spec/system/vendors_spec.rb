@@ -58,7 +58,6 @@ RSpec.describe 'Vendor CRUD Operations', type: :system do
   it 'can sort vendors' do
     visit '/vendors'
     click_on 'Brand Name ▲'
-    expect(page).to have_content(vendor.brand_name)
 
     click_on 'Brand Name ▼'
     expect(page).to have_content(vendor.brand_name)

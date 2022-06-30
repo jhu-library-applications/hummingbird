@@ -6,7 +6,7 @@ class AccessRestriction < ApplicationRecord
   belongs_to :access_restriction_type
   belongs_to :database
 
-  validates :private_url, uniqueness: true, allow_nil: true # rubocop:disable Rails/UniqueValidationWithoutIndex
+  validates :private_url, uniqueness: true, allow_nil: true
 
   private
 
