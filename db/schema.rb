@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_06_06_154734) do
+ActiveRecord::Schema[7.0].define(version: 2022_07_01_202943) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -50,7 +50,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_06_154734) do
   end
 
   create_table "databases", force: :cascade do |t|
-    t.bigint "vendor_id", null: false
+    t.bigint "vendor_id"
     t.text "name"
     t.text "url"
     t.boolean "enable_proxy"
@@ -61,7 +61,6 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_06_154734) do
     t.string "jhu_id"
     t.index ["jhu_id"], name: "index_databases_on_jhu_id", unique: true
     t.index ["name"], name: "index_databases_on_name", unique: true
-    t.index ["url"], name: "index_databases_on_url", unique: true
     t.index ["vendor_id"], name: "index_databases_on_vendor_id"
   end
 
@@ -96,7 +95,9 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_06_154734) do
     t.string "brand_name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.bigint "vendor_id"
     t.index ["brand_name"], name: "index_vendors_on_brand_name", unique: true
+    t.index ["vendor_id"], name: "index_vendors_on_vendor_id"
   end
 
   add_foreign_key "access_restrictions", "access_restriction_types"
@@ -105,4 +106,5 @@ ActiveRecord::Schema[7.0].define(version: 2022_06_06_154734) do
   add_foreign_key "database_headings", "headings"
   add_foreign_key "database_headings", "subheadings"
   add_foreign_key "databases", "vendors"
+  add_foreign_key "vendors", "vendors"
 end
