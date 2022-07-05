@@ -17,6 +17,7 @@ Heading.destroy_all
 Subheading.destroy_all
 Database.destroy_all
 DatabaseHeading.destroy_all
+AccessRestriction.destroy_all
 
 # Create vendors
 vendor_headers = %i[ID vendor]
@@ -39,7 +40,7 @@ subheading_headers = %i[ID, subheading]
 CSV.foreach(Rails.root.join('test_data/tbl_dict_subheadings.txt'), encoding: "ISO-8859-1", headers: heading_headers, col_sep: '|', liberal_parsing: true) do |row|
   next if row[:ID] == 'ID'
 
-  Subheading.new(id: row[:ID], label: row[:subheading])
+  Subheading.new(id: row[:ID], label: row[:subheading]).save!
 end
 
 # Create Databases
@@ -58,5 +59,21 @@ database_heading_headers = %i[ID jhu_id heading_id subheading_id]
 CSV.foreach(Rails.root.join('test_data/tbl_db_headings.txt'), encoding: "ISO-8859-1", headers: heading_headers, col_sep: '|', liberal_parsing: true) do |row|
   next if row[:ID] == 'ID'
 
-  Subheading.new(id: row[:ID], jhu_id: row[:jhu_id], heading_id: row[:heading_id], subheading_id: row[:subheading_id], database_id: integer)
+  Subheading.new(id: row[:ID], jhu_id: row[:jhu_id], heading_id: row[:heading_id], subheading_id: row[:subheading_id], database_id: integer).save!
+end
+
+# Create Access Restriction Types
+access_restriction_type_headers = %i[ID restrict_type restrict_note_default private]
+CSV.foreach(Rails.root.join('test_data/tbl_db_headings.txt'), encoding: "ISO-8859-1", headers: heading_headers, col_sep: '|', liberal_parsing: true) do |row|
+  next if row[:ID] == 'ID'
+
+  AccessRestrictionType.new(id: row[:ID], type_label: row[:restrict_type], note: row[:restrict_note_default], private: row[:private]).save!
+end
+
+# Create Access Restrictions
+access_restriction_headers = %i[jhu_id restrict_type_id restrict_note private_url]
+CSV.foreach(Rails.root.join('test_data/tbl_db_headings.txt'), encoding: "ISO-8859-1", headers: heading_headers, col_sep: '|', liberal_parsing: true) do |row|
+  next if row[:ID] == 'ID'
+
+  AccessRestriction.new(jhu_id: row[:jhu_id], access_restriction_type_id: row[:restrict_type], database_id: [], note: row[:restrict_note], private_url: row[:private_url]).save!
 end
