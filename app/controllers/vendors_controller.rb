@@ -7,8 +7,16 @@ class VendorsController < ApplicationController
   before_action :require_login
 
   # GET /vendors or /vendors.json
-  def index
-    @vendors = Vendor.all
+  def index # rubocop:disable Metrics/*
+    if params[:search] && params[:sort].nil?
+      @vendors ||= Vendor.search_brand_name_asc(params[:search]).page(params[:page])
+    elsif params[:search] && params[:sort] == 'asc'
+      @vendors ||= Vendor.search_brand_name_asc(params[:search]).page(params[:page])
+    elsif params[:search] && params[:sort] == 'desc'
+      @vendors ||= Vendor.search_brand_name_desc(params[:search]).page(params[:page])
+    else
+      @vendors = Vendor.all.order(brand_name: params[:sort] || :asc).page(params[:page])
+    end
   end
 
   # GET /vendors/1 or /vendors/1.json
