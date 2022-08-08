@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_07_01_202943) do
+ActiveRecord::Schema[7.0].define(version: 2022_08_08_191505) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -20,7 +20,8 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_01_202943) do
     t.boolean "private"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["type_label"], name: "index_access_restriction_types_on_type_label", unique: true
+    t.integer "access_restriction_type_id"
+    t.index ["type_label"], name: "index_access_restriction_types_on_type_label"
   end
 
   create_table "access_restrictions", force: :cascade do |t|
@@ -42,6 +43,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_01_202943) do
     t.bigint "database_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "database_heading_id"
     t.index ["database_id"], name: "index_database_headings_on_database_id"
     t.index ["heading_id", "subheading_id", "jhu_id", "database_id"], name: "multicolumn_db_heading_index", unique: true
     t.index ["heading_id", "subheading_id", "jhu_id"], name: "multicolumn_jhu_id_index", unique: true
@@ -68,6 +70,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_01_202943) do
     t.string "label"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "heading_id"
     t.index ["label"], name: "index_headings_on_label", unique: true
   end
 
@@ -75,6 +78,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_01_202943) do
     t.string "label"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "subheading_id"
     t.index ["label"], name: "index_subheadings_on_label", unique: true
   end
 
@@ -96,6 +100,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_01_202943) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.bigint "vendor_id"
+    t.integer "vendor_gid"
     t.index ["brand_name"], name: "index_vendors_on_brand_name", unique: true
     t.index ["vendor_id"], name: "index_vendors_on_vendor_id"
   end
