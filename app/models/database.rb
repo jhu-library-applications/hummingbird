@@ -3,8 +3,8 @@
 # The Database model. Database in this case is an acaedmic resource like EBSCO Academic Search Ultimate
 # not a relational database.
 class Database < ApplicationRecord
-  belongs_to :vendor
-  validates :url, uniqueness: true, presence: true
+  belongs_to :vendor, optional: true
+  validates :url, presence: true
   validates :name, uniqueness: true, presence: true
   validates :jhu_id, uniqueness: true, presence: true
 

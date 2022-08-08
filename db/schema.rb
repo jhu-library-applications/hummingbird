@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
+ActiveRecord::Schema[7.0].define(version: 2022_08_08_191505) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "citext"
   enable_extension "plpgsql"
@@ -21,7 +21,8 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
     t.boolean "private"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["type_label"], name: "index_access_restriction_types_on_type_label", unique: true
+    t.integer "access_restriction_type_id"
+    t.index ["type_label"], name: "index_access_restriction_types_on_type_label"
   end
 
   create_table "access_restrictions", force: :cascade do |t|
@@ -34,7 +35,6 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
     t.datetime "updated_at", null: false
     t.index ["access_restriction_type_id"], name: "index_access_restrictions_on_access_restriction_type_id"
     t.index ["database_id"], name: "index_access_restrictions_on_database_id"
-    t.index ["private_url"], name: "index_access_restrictions_on_private_url", unique: true
   end
 
   create_table "database_headings", force: :cascade do |t|
@@ -44,6 +44,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
     t.bigint "database_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "database_heading_id"
     t.index ["database_id"], name: "index_database_headings_on_database_id"
     t.index ["heading_id", "subheading_id", "jhu_id", "database_id"], name: "multicolumn_db_heading_index", unique: true
     t.index ["heading_id", "subheading_id", "jhu_id"], name: "multicolumn_jhu_id_index", unique: true
@@ -52,7 +53,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
   end
 
   create_table "databases", force: :cascade do |t|
-    t.bigint "vendor_id", null: false
+    t.bigint "vendor_id"
     t.text "name"
     t.text "url"
     t.boolean "enable_proxy"
@@ -63,7 +64,6 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
     t.string "jhu_id"
     t.index ["jhu_id"], name: "index_databases_on_jhu_id", unique: true
     t.index ["name"], name: "index_databases_on_name", unique: true
-    t.index ["url"], name: "index_databases_on_url", unique: true
     t.index ["vendor_id"], name: "index_databases_on_vendor_id"
   end
 
@@ -71,6 +71,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
     t.string "label"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "heading_id"
     t.index ["label"], name: "index_headings_on_label", unique: true
   end
 
@@ -78,6 +79,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
     t.string "label"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "subheading_id"
     t.index ["label"], name: "index_subheadings_on_label", unique: true
   end
 
@@ -98,8 +100,11 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
     t.citext "brand_name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.bigint "vendor_id"
+    t.integer "vendor_gid"
     t.index "lower((brand_name)::text)", name: "index_brand_name_case_insensitive", unique: true
     t.index ["brand_name"], name: "index_vendors_on_brand_name", unique: true
+    t.index ["vendor_id"], name: "index_vendors_on_vendor_id"
   end
 
   add_foreign_key "access_restrictions", "access_restriction_types"
@@ -108,4 +113,5 @@ ActiveRecord::Schema[7.0].define(version: 2022_07_12_134053) do
   add_foreign_key "database_headings", "headings"
   add_foreign_key "database_headings", "subheadings"
   add_foreign_key "databases", "vendors"
+  add_foreign_key "vendors", "vendors"
 end
