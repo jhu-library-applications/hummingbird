@@ -46,4 +46,20 @@ RSpec.describe 'Vendor CRUD Operations', type: :system do
 
     expect(page).to have_content('Vendor was successfully destroyed.')
   end
+
+  it 'can search for a vendor' do
+    visit '/vendors'
+    fill_in 'search', with: vendor.brand_name
+    click_on 'Search'
+
+    expect(page).to have_content(vendor.brand_name)
+  end
+
+  it 'can sort vendors' do
+    visit '/vendors'
+    click_on 'Brand Name ▲'
+
+    click_on 'Brand Name ▼'
+    expect(page).to have_content(vendor.brand_name)
+  end
 end
